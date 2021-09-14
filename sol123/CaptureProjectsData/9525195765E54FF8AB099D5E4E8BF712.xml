@@ -2,7 +2,7 @@
 <ProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Identity>
     <Id>9525195765E54FF8AB099D5E4E8BF712</Id>
-    <Version>1</Version>
+    <Version>2</Version>
     <Name>sol123</Name>
   </Identity>
   <Category>
@@ -11,9 +11,9 @@
     <Name>GIT DATA</Name>
   </Category>
   <Name>sol123</Name>
-  <Description />
+  <Description>1231313</Description>
   <Status>Released</Status>
-  <LastModifiedProjectFile>2021-09-14T10:06:45.183</LastModifiedProjectFile>
+  <LastModifiedProjectFile>2021-09-14T10:11:37.057</LastModifiedProjectFile>
   <LastModifiedProjectFolderZip>2021-09-14T10:06:44.863</LastModifiedProjectFolderZip>
   <LastModifiedUser>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
