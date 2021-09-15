@@ -3,15 +3,15 @@
   <SpaPackageIdentity>
     <Id>F7317A94CFBC48F3A7FED7A87E266606</Id>
     <Name>EXTTest</Name>
-    <Version>1</Version>
+    <Version>2</Version>
   </SpaPackageIdentity>
-  <Description />
+  <Description>aa</Description>
   <CategoryIdentity>
     <Id>62E18169A4724202B42EBF7C3FDAF9E9</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Name>GIT DATA</Name>
   </CategoryIdentity>
-  <LastModifiedDateTime>2021-09-15T12:01:37.373</LastModifiedDateTime>
+  <LastModifiedDateTime>2021-09-15T13:12:15.007</LastModifiedDateTime>
   <LastModifiedResource>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
@@ -32,7 +32,7 @@
       <GeneralizedExport>false</GeneralizedExport>
       <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
       <ExportCaseFragments>false</ExportCaseFragments>
-      <ExportTemplateSkins>true</ExportTemplateSkins>
+      <ExportTemplateSkins>false</ExportTemplateSkins>
       <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
       <ExportGlobalDataModels>false</ExportGlobalDataModels>
       <ExportProcessDataModels>false</ExportProcessDataModels>
@@ -62,7 +62,7 @@
       <ExportReportingTags>false</ExportReportingTags>
       <ExportTestPlans>false</ExportTestPlans>
       <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
-      <IsGitExport>true</IsGitExport>
+      <IsGitExport>false</IsGitExport>
     </ProcessExportOption>
     <WorkAllocationRules />
     <Skins />
@@ -138,7 +138,7 @@
       <DocumentGroupIdentity>
         <Id>7ADC5718E92E30DBBADFB5F12FD13CD1</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>1</Version>
+        <Version>2</Version>
         <Name>ExtTest</Name>
       </DocumentGroupIdentity>
     </ExtractionGroups>
@@ -146,7 +146,7 @@
       <ClassificationGroupIdentity>
         <Id>762B82462FF6621F3ACD57C19C8E1B3B</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>1</Version>
+        <Version>4</Version>
         <Name>ClsTest</Name>
       </ClassificationGroupIdentity>
     </ClassificationGroups>
@@ -214,6 +214,7 @@
       <Name />
       <Version>0</Version>
     </QuickApp>
+    <GitFolderName>EXTTest</GitFolderName>
     <PackageItemAssociations />
   </Data>
   <Comments />
