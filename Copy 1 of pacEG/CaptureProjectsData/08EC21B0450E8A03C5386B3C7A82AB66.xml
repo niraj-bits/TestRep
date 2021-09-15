@@ -2,7 +2,7 @@
 <ProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Identity>
     <Id>08EC21B0450E8A03C5386B3C7A82AB66</Id>
-    <Version>8</Version>
+    <Version>9</Version>
     <Name>EGTest12232323</Name>
   </Identity>
   <Category>
@@ -11,9 +11,9 @@
     <Name>GIT DATA</Name>
   </Category>
   <Name>EGTest12232323</Name>
-  <Description />
+  <Description>ghfhfhf</Description>
   <Status>Released</Status>
-  <LastModifiedProjectFile>2021-09-15T11:29:04.91</LastModifiedProjectFile>
+  <LastModifiedProjectFile>2021-09-15T11:48:58.267</LastModifiedProjectFile>
   <LastModifiedProjectFolderZip>0001-01-01T00:00:00</LastModifiedProjectFolderZip>
   <LastModifiedUser>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
@@ -24,11 +24,20 @@
     <UserId />
     <ManagerialLevel>0</ManagerialLevel>
   </LastModifiedUser>
+  <LockedBy>
+    <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
   <OnlineLearningFolderId />
   <ProjectType>DocumentGroup</ProjectType>
   <IsOnlineLearningEnabled>false</IsOnlineLearningEnabled>
   <IsSeparationEnabled>false</IsSeparationEnabled>
-  <LockedByModule>None</LockedByModule>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
   <IsSimpleProject>false</IsSimpleProject>
   <TrainingSetPath />
   <UsedLicenseFeatures>None</UsedLicenseFeatures>
