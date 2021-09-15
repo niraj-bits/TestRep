@@ -3,11 +3,11 @@
   <Identity>
     <Id>D0009A12B338A45A897F2D88B9870D18</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
-    <Version>6</Version>
+    <Version>7</Version>
     <Name>TestCG1</Name>
   </Identity>
   <Name>TestCG1</Name>
-  <Description />
+  <Description>asasas</Description>
   <Status>Released</Status>
   <IsShared>false</IsShared>
   <Category>
@@ -23,7 +23,7 @@
       <Name>EGTest12232323</Name>
     </DocumentGroupIdentity>
   </DocumentGroups>
-  <LastModifiedDate>2021-09-15T11:29:04.94</LastModifiedDate>
+  <LastModifiedDate>2021-09-15T11:31:47.65</LastModifiedDate>
   <LastModifiedUser>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
