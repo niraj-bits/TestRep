@@ -2,7 +2,7 @@
 <ProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Identity>
     <Id>D0009A12B338A45A897F2D88B9870D18</Id>
-    <Version>5</Version>
+    <Version>6</Version>
     <Name>TestCG1</Name>
   </Identity>
   <Category>
@@ -13,7 +13,7 @@
   <Name>TestCG1</Name>
   <Description />
   <Status>Released</Status>
-  <LastModifiedProjectFile>2021-09-15T11:23:00.167</LastModifiedProjectFile>
+  <LastModifiedProjectFile>2021-09-15T11:29:04.94</LastModifiedProjectFile>
   <LastModifiedProjectFolderZip>0001-01-01T00:00:00</LastModifiedProjectFolderZip>
   <LastModifiedUser>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
