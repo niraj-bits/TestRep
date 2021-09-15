@@ -3,11 +3,11 @@
   <Identity>
     <Id>835992E73B771E3230D89B615C1D2BD5</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
-    <Version>2</Version>
+    <Version>3</Version>
     <Name>ExtCls1</Name>
   </Identity>
   <Name>ExtCls1</Name>
-  <Description />
+  <Description>123</Description>
   <Status>Released</Status>
   <IsShared>false</IsShared>
   <Category>
@@ -23,7 +23,7 @@
       <Name>ext123</Name>
     </DocumentGroupIdentity>
   </DocumentGroups>
-  <LastModifiedDate>2021-09-15T11:57:15.257</LastModifiedDate>
+  <LastModifiedDate>2021-09-15T11:57:55.187</LastModifiedDate>
   <LastModifiedUser>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
