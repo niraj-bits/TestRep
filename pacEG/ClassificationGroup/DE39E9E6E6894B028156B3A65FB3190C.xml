@@ -3,7 +3,7 @@
   <Identity>
     <Id>DE39E9E6E6894B028156B3A65FB3190C</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
-    <Version>5</Version>
+    <Version>6</Version>
     <Name>TestCG2</Name>
   </Identity>
   <Name>TestCG2</Name>
@@ -19,14 +19,15 @@
     <DocumentGroupIdentity>
       <Id>08EC21B0450E8A03C5386B3C7A82AB66</Id>
       <AutomaticallyPopulate>true</AutomaticallyPopulate>
-      <Version>7</Version>
-      <Name>EGTest</Name>
+      <Version>8</Version>
+      <Name>EGTest12232323</Name>
     </DocumentGroupIdentity>
   </DocumentGroups>
-  <LastModifiedDate>2021-09-15T11:23:00.183</LastModifiedDate>
+  <LastModifiedDate>2021-09-15T11:29:04.953</LastModifiedDate>
   <LastModifiedUser>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Sunanda.Varma</Name>
     <ResourceType>Worker</ResourceType>
     <EmailAddress />
     <UserId />
