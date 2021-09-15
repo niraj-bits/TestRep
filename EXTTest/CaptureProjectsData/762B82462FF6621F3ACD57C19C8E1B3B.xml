@@ -2,7 +2,7 @@
 <ProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Identity>
     <Id>762B82462FF6621F3ACD57C19C8E1B3B</Id>
-    <Version>6</Version>
+    <Version>7</Version>
     <Name>ClsTest</Name>
   </Identity>
   <Category>
@@ -11,9 +11,9 @@
     <Name>GIT DATA</Name>
   </Category>
   <Name>ClsTest</Name>
-  <Description>aa2323bbbb</Description>
+  <Description>test</Description>
   <Status>Released</Status>
-  <LastModifiedProjectFile>2021-09-15T14:35:41.82</LastModifiedProjectFile>
+  <LastModifiedProjectFile>2021-09-15T14:42:27.207</LastModifiedProjectFile>
   <LastModifiedProjectFolderZip>0001-01-01T00:00:00</LastModifiedProjectFolderZip>
   <LastModifiedUser>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
