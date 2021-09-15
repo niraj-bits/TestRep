@@ -3,7 +3,7 @@
   <Identity>
     <Id>835992E73B771E3230D89B615C1D2BD5</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
-    <Version>1</Version>
+    <Version>2</Version>
     <Name>ExtCls1</Name>
   </Identity>
   <Name>ExtCls1</Name>
@@ -19,20 +19,30 @@
     <DocumentGroupIdentity>
       <Id>3BE7FB8FBE27A076981F7E9764826648</Id>
       <AutomaticallyPopulate>true</AutomaticallyPopulate>
-      <Version>1</Version>
-      <Name>ext</Name>
+      <Version>2</Version>
+      <Name>ext123</Name>
     </DocumentGroupIdentity>
   </DocumentGroups>
-  <LastModifiedDate>2021-09-15T11:55:06.557</LastModifiedDate>
+  <LastModifiedDate>2021-09-15T11:57:15.257</LastModifiedDate>
   <LastModifiedUser>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Sunanda.Varma</Name>
     <ResourceType>Worker</ResourceType>
     <EmailAddress />
     <UserId />
     <ManagerialLevel>0</ManagerialLevel>
   </LastModifiedUser>
-  <LockedByModule>None</LockedByModule>
+  <LockedBy>
+    <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Sunanda.Varma</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
   <ClassificationOnlineLearningEnabled>false</ClassificationOnlineLearningEnabled>
   <ClassificationMaxDocCount>2000</ClassificationMaxDocCount>
   <ResourceAccessTokens>
