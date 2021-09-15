@@ -3,10 +3,10 @@
   <Identity>
     <Id>08EC21B0450E8A03C5386B3C7A82AB66</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
-    <Version>7</Version>
-    <Name>EGTest</Name>
+    <Version>8</Version>
+    <Name>EGTest12232323</Name>
   </Identity>
-  <Name>EGTest</Name>
+  <Name>EGTest12232323</Name>
   <Description />
   <Status>Released</Status>
   <IsShared>false</IsShared>
@@ -19,7 +19,7 @@
     <DocumentType>
       <Identity>
         <Id>59FA6F5C7B69167D17A6F14432A71DC9</Id>
-        <Version>7</Version>
+        <Version>8</Version>
         <Name />
       </Identity>
       <Name />
@@ -101,10 +101,11 @@
       <IsPartial>false</IsPartial>
     </DocumentType>
   </DocumentTypes>
-  <LastModifiedDate>2021-09-15T11:23:00.077</LastModifiedDate>
+  <LastModifiedDate>2021-09-15T11:29:04.91</LastModifiedDate>
   <LastModifiedUser>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Sunanda.Varma</Name>
     <ResourceType>Worker</ResourceType>
     <EmailAddress />
     <UserId />
@@ -122,7 +123,7 @@
   <LockedByModule>TotalAgilityDesigner</LockedByModule>
   <RootDocumentType>
     <Id>59FA6F5C7B69167D17A6F14432A71DC9</Id>
-    <Version>7</Version>
+    <Version>8</Version>
     <Name />
   </RootDocumentType>
   <IsOnlineLearningEnabled>false</IsOnlineLearningEnabled>
