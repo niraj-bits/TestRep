@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CustomService xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>F2144FCD5586302D015772123F40DF18</Id>
+    <Name>serv123</Name>
+    <Version>1</Version>
+    <Group>
+      <Id>0E6BAE6342754E63AFC5F997999E606D</Id>
+      <Name>grp123</Name>
+    </Group>
+  </Identity>
+  <Category>
+    <Id>4A60BE02CC844689A3821086B06EDDF3</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+  </Category>
+  <Data>
+    <Owner />
+    <Inputs />
+    <Outputs />
+  </Data>
+  <LastModifiedDate>2021-09-22T12:35:54.237</LastModifiedDate>
+  <LastModifiedBy>
+    <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedBy>
+</CustomService>
