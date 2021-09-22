@@ -146,7 +146,7 @@
       <ClassificationGroupIdentity>
         <Id>762B82462FF6621F3ACD57C19C8E1B3B</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>6</Version>
+        <Version>7.001</Version>
         <Name>ClsTest</Name>
       </ClassificationGroupIdentity>
     </ClassificationGroups>
