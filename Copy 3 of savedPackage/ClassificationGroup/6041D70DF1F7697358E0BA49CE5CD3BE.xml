@@ -3,11 +3,11 @@
   <Identity>
     <Id>6041D70DF1F7697358E0BA49CE5CD3BE</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
-    <Version>1.001</Version>
+    <Version>1.002</Version>
     <Name>savedCG</Name>
   </Identity>
   <Name>savedCG</Name>
-  <Description />
+  <Description>saved</Description>
   <Status>Saved</Status>
   <IsShared>false</IsShared>
   <Category>
@@ -23,16 +23,26 @@
       <Name>savedEG</Name>
     </DocumentGroupIdentity>
   </DocumentGroups>
-  <LastModifiedDate>2021-09-28T11:07:23.047</LastModifiedDate>
+  <LastModifiedDate>2021-09-28T12:39:53.483</LastModifiedDate>
   <LastModifiedUser>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Sunanda.Varma</Name>
     <ResourceType>Worker</ResourceType>
     <EmailAddress />
     <UserId />
     <ManagerialLevel>0</ManagerialLevel>
   </LastModifiedUser>
-  <LockedByModule>None</LockedByModule>
+  <LockedBy>
+    <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Sunanda.Varma</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
   <ClassificationOnlineLearningEnabled>false</ClassificationOnlineLearningEnabled>
   <ClassificationMaxDocCount>2000</ClassificationMaxDocCount>
   <ResourceAccessTokens>
