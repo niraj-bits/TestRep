@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-16"?>
+<FolderType xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>3C7EBF91C343F45CF42364855E3DEBA5</Id>
+    <AutomaticallyPopulate>false</AutomaticallyPopulate>
+    <Version>1</Version>
+    <Name>SavedFldr</Name>
+  </Identity>
+  <Name>SavedFldr</Name>
+  <Description />
+  <Status>Released</Status>
+  <Category>
+    <Id>62E18169A4724202B42EBF7C3FDAF9E9</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>GIT DATA</Name>
+  </Category>
+  <LastModifiedDate>2021-09-28T11:07:40.28</LastModifiedDate>
+  <LastModifiedUser>
+    <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedByModule>None</LockedByModule>
+  <FieldGroups />
+  <FieldValidators />
+  <FolderValidatorCollection />
+  <ChildFolderTypes>
+    <FolderType>
+      <Identity>
+        <Id>CCB83247F1302A333A6BB4B9C9122DA2</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>Folder a</Name>
+      </Identity>
+      <Name>Folder a</Name>
+      <Description />
+      <Status>Released</Status>
+      <Category>
+        <Id>62E18169A4724202B42EBF7C3FDAF9E9</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name />
+      </Category>
+      <LastModifiedDate>2021-09-28T11:07:40.28</LastModifiedDate>
+      <LastModifiedUser>
+        <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <ResourceType>Worker</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </LastModifiedUser>
+      <LockedByModule>None</LockedByModule>
+      <FieldGroups />
+      <FieldValidators />
+      <FolderValidatorCollection />
+      <ParentFolderType>
+        <Id>3C7EBF91C343F45CF42364855E3DEBA5</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>SavedFldr</Name>
+      </ParentFolderType>
+      <ChildFolderTypes />
+      <NameTemplate>[FolderType]</NameTemplate>
+      <ProcessSubfoldersForValidation>false</ProcessSubfoldersForValidation>
+      <Forms />
+      <ResourceAccessTokens />
+      <ResourcePermissionType>FullControl</ResourcePermissionType>
+    </FolderType>
+  </ChildFolderTypes>
+  <NameTemplate>[FolderType]</NameTemplate>
+  <ProcessSubfoldersForValidation>false</ProcessSubfoldersForValidation>
+  <Forms />
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <ResourcePermissionType>FullControl</ResourcePermissionType>
+</FolderType>
