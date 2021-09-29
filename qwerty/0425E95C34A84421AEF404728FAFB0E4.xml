@@ -3,7 +3,7 @@
   <SpaPackageIdentity>
     <Id>0425E95C34A84421AEF404728FAFB0E4</Id>
     <Name>qwerty</Name>
-    <Version>5</Version>
+    <Version>7</Version>
   </SpaPackageIdentity>
   <Description>123</Description>
   <CategoryIdentity>
@@ -11,7 +11,7 @@
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Name>GIT DATA</Name>
   </CategoryIdentity>
-  <LastModifiedDateTime>2021-09-30T00:46:09.2</LastModifiedDateTime>
+  <LastModifiedDateTime>2021-09-30T01:07:23.353</LastModifiedDateTime>
   <LastModifiedResource>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
@@ -151,6 +151,11 @@
         <Version>4</Version>
         <Name>TestSavedDatamodel</Name>
       </DataModelIdentity>
+      <DataModelIdentity>
+        <Id>F39CD2B8F49BE8828B4F44832A2EEDF5</Id>
+        <Version>2</Version>
+        <Name>model123</Name>
+      </DataModelIdentity>
     </DataModels>
     <Folders>
       <FolderTypeIdentity>
@@ -281,6 +286,18 @@
       </PackageItemAssociation>
       <PackageItemAssociation>
         <Id>A56EB4A28B6258122BA66C88C3D917AE</Id>
+        <Name />
+        <ItemType>44</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>62E18169A4724202B42EBF7C3FDAF9E9</Id>
+            <ItemType>28</ItemType>
+            <Name>GIT DATA</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>F39CD2B8F49BE8828B4F44832A2EEDF5</Id>
         <Name />
         <ItemType>44</ItemType>
         <AssociatedItems>
