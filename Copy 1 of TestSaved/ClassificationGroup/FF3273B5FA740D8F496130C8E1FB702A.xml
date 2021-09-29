@@ -3,7 +3,7 @@
   <Identity>
     <Id>FF3273B5FA740D8F496130C8E1FB702A</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
-    <Version>3</Version>
+    <Version>5</Version>
     <Name>TestSavedCG</Name>
   </Identity>
   <Name>TestSavedCG</Name>
@@ -19,20 +19,30 @@
     <DocumentGroupIdentity>
       <Id>0ED9F0B31613006192313DA18AED680A</Id>
       <AutomaticallyPopulate>true</AutomaticallyPopulate>
-      <Version>2</Version>
+      <Version>3</Version>
       <Name>TestSavedEG</Name>
     </DocumentGroupIdentity>
   </DocumentGroups>
-  <LastModifiedDate>2021-09-29T14:58:39.603</LastModifiedDate>
+  <LastModifiedDate>2021-09-29T16:11:54.453</LastModifiedDate>
   <LastModifiedUser>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Sunanda.Varma</Name>
     <ResourceType>Worker</ResourceType>
     <EmailAddress />
     <UserId />
     <ManagerialLevel>0</ManagerialLevel>
   </LastModifiedUser>
-  <LockedByModule>None</LockedByModule>
+  <LockedBy>
+    <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Sunanda.Varma</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
   <ClassificationOnlineLearningEnabled>false</ClassificationOnlineLearningEnabled>
   <ClassificationMaxDocCount>2000</ClassificationMaxDocCount>
   <ResourceAccessTokens>
