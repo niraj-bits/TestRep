@@ -3,15 +3,15 @@
   <SpaPackageIdentity>
     <Id>0425E95C34A84421AEF404728FAFB0E4</Id>
     <Name>qwerty</Name>
-    <Version>2</Version>
+    <Version>5</Version>
   </SpaPackageIdentity>
-  <Description />
+  <Description>123</Description>
   <CategoryIdentity>
     <Id>62E18169A4724202B42EBF7C3FDAF9E9</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Name>GIT DATA</Name>
   </CategoryIdentity>
-  <LastModifiedDateTime>2021-09-30T00:36:58.233</LastModifiedDateTime>
+  <LastModifiedDateTime>2021-09-30T00:46:09.2</LastModifiedDateTime>
   <LastModifiedResource>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
@@ -45,17 +45,11 @@
       <GeneralizedExport>false</GeneralizedExport>
       <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
       <ExportCaseFragments>false</ExportCaseFragments>
-      <ExportTemplateSkins>true</ExportTemplateSkins>
+      <ExportTemplateSkins>false</ExportTemplateSkins>
       <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
       <ExportGlobalDataModels>false</ExportGlobalDataModels>
       <ExportProcessDataModels>false</ExportProcessDataModels>
-      <ProcessIdentity>
-        <Id>3ED872430D2C1F299F96199716FE964E</Id>
-        <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>3</Version>
-        <Name>TestSavedFrag</Name>
-      </ProcessIdentity>
-      <ExportType>IndividualAssociatedMaps</ExportType>
+      <ExportType>None</ExportType>
       <Version>0</Version>
       <ExportServerVariables>true</ExportServerVariables>
       <XmlExpressionVariables />
@@ -74,718 +68,14 @@
       <Assets />
       <PerceptiveSiteDetailsRequired>false</PerceptiveSiteDetailsRequired>
       <IncludeExportConnectorMappings>false</IncludeExportConnectorMappings>
-      <IsSpaExport>true</IsSpaExport>
-      <SpaPackageExportHelper>
-        <SpaPackageIdentity>
-          <Id>0425E95C34A84421AEF404728FAFB0E4</Id>
-          <Name>qwerty</Name>
-          <Version>2</Version>
-        </SpaPackageIdentity>
-        <Categories />
-        <WorkerGroupResources />
-        <WorkerResources />
-        <Lookups />
-        <ChecklistItems />
-        <ChecklistTemplates />
-        <BusinessRules />
-        <RegularExpressions />
-        <GlobalVariables />
-        <Navigations />
-        <Themes />
-        <FormTemplates />
-        <Sites />
-        <Personas />
-        <Entities />
-        <WorkTypes />
-        <DataModels />
-        <FolderTypes>
-          <FolderType>
-            <Identity>
-              <Id>699417D9A4BD68B21C1E992D1F030B88</Id>
-              <AutomaticallyPopulate>false</AutomaticallyPopulate>
-              <Version>3</Version>
-              <Name>TestSavedFldr</Name>
-            </Identity>
-            <Name>TestSavedFldr</Name>
-            <Description />
-            <Status>Released</Status>
-            <Category>
-              <Id>62E18169A4724202B42EBF7C3FDAF9E9</Id>
-              <AutomaticallyPopulate>true</AutomaticallyPopulate>
-              <Name>GIT DATA</Name>
-            </Category>
-            <LastModifiedDate>2021-09-30T00:33:49.72</LastModifiedDate>
-            <LastModifiedUser>
-              <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
-              <AutomaticallyPopulate>true</AutomaticallyPopulate>
-              <ResourceType>Worker</ResourceType>
-              <EmailAddress />
-              <UserId />
-              <ManagerialLevel>0</ManagerialLevel>
-            </LastModifiedUser>
-            <LockedBy>
-              <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
-              <AutomaticallyPopulate>true</AutomaticallyPopulate>
-              <Name>Sunanda.Varma</Name>
-              <ResourceType>Worker</ResourceType>
-              <EmailAddress />
-              <UserId />
-              <ManagerialLevel>0</ManagerialLevel>
-            </LockedBy>
-            <LockedByModule>TotalAgilityDesigner</LockedByModule>
-            <FieldGroups />
-            <FieldValidators />
-            <FolderValidatorCollection />
-            <ChildFolderTypes />
-            <NameTemplate>[FolderType]</NameTemplate>
-            <ProcessSubfoldersForValidation>false</ProcessSubfoldersForValidation>
-            <Forms>
-              <ScanForm>
-                <Id />
-                <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                <Version>0</Version>
-              </ScanForm>
-              <ValidationForm>
-                <Id />
-                <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                <Version>0</Version>
-              </ValidationForm>
-              <VerificationForm>
-                <Id />
-                <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                <Version>0</Version>
-              </VerificationForm>
-              <DocumentReviewForm>
-                <Id />
-                <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                <Version>0</Version>
-              </DocumentReviewForm>
-            </Forms>
-            <ResourceAccessTokens>
-              <ResourceAccess>
-                <ResourceIdentity>
-                  <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
-                  <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                  <Name>Everyone</Name>
-                  <ResourceType>GroupOfWorkers</ResourceType>
-                  <EmailAddress />
-                  <UserId />
-                  <ManagerialLevel>0</ManagerialLevel>
-                </ResourceIdentity>
-                <AccessType>MaintenanceAccess</AccessType>
-                <PermissionType>FullControl</PermissionType>
-              </ResourceAccess>
-            </ResourceAccessTokens>
-            <ResourcePermissionType>FullControl</ResourcePermissionType>
-          </FolderType>
-        </FolderTypes>
-        <ExtractionGroups />
-        <Alerts />
-        <Events />
-        <Targets />
-        <ClassificationGroups />
-        <Formatters />
-        <FieldValidators />
-        <ScanVrsProfiles />
-        <SeparationProfiles />
-        <PdfGenerationProfiles />
-        <DocConversionProfiles />
-        <Assets />
-        <Forms />
-        <Processes>
-          <ExportedProcess>
-            <Xml>&lt;processmaps xmlns:dt="urn:schemas-microsoft-com:datatypes" dbversion="7.10" parentprocessmapversion="3.000000" parentprocessmapid="2C3638ABABB1C0FA631FC560A1696BC0"&gt;&lt;projectlist /&gt;&lt;webservices&gt;&lt;/webservices&gt;&lt;projectlist /&gt;&lt;processmap&gt;&lt;procdata&gt;&lt;mapid&gt;2C3638ABABB1C0FA631FC560A1696BC0&lt;/mapid&gt;&lt;mapname&gt;TestSavedCd&lt;/mapname&gt;&lt;mapauthor&gt;Sunanda.Varma&lt;/mapauthor&gt;&lt;mapauthorid&gt;37B30C5D37034F3C92842C76E7BC18D3&lt;/mapauthorid&gt;&lt;maptrackstorejvh&gt;0&lt;/maptrackstorejvh&gt;&lt;helptext&gt;&lt;/helptext&gt;&lt;lastmodified&gt;37B30C5D37034F3C92842C76E7BC18D3&lt;/lastmodified&gt;&lt;allocationalgorithm&gt;0&lt;/allocationalgorithm&gt;&lt;arrowstyle&gt;0&lt;/arrowstyle&gt;&lt;arrowweighting&gt;0&lt;/arrowweighting&gt;&lt;designtimesettings&gt;&amp;lt;designtimesettings&amp;gt;&amp;lt;annotations /&amp;gt;&amp;lt;attachments /&amp;gt;&amp;lt;collaborationnodes /&amp;gt;&amp;lt;groupartifacts /&amp;gt;&amp;lt;pools&amp;gt;&amp;lt;pool&amp;gt;&amp;lt;xposition&amp;gt;25&amp;lt;/xposition&amp;gt;&amp;lt;yposition&amp;gt;25&amp;lt;/yposition&amp;gt;&amp;lt;width&amp;gt;1400&amp;lt;/width&amp;gt;&amp;lt;height&amp;gt;600&amp;lt;/height&amp;gt;&amp;lt;name&amp;gt;New process&amp;lt;/name&amp;gt;&amp;lt;id&amp;gt;414795551198CE4A87F51826B7820CCF&amp;lt;/id&amp;gt;&amp;lt;type&amp;gt;0&amp;lt;/type&amp;gt;&amp;lt;lanes&amp;gt;&amp;lt;lane&amp;gt;&amp;lt;name&amp;gt;Lane1&amp;lt;/name&amp;gt;&amp;lt;index&amp;gt;0&amp;lt;/index&amp;gt;&amp;lt;poolid&amp;gt;414795551198CE4A87F51826B7820CCF&amp;lt;/poolid&amp;gt;&amp;lt;height&amp;gt;600&amp;lt;/height&amp;gt;&amp;lt;/lane&amp;gt;&amp;lt;/lanes&amp;gt;&amp;lt;/pool&amp;gt;&amp;lt;/pools&amp;gt;&amp;lt;messageflows /&amp;gt;&amp;lt;layoutdirection&amp;gt;Horizontal&amp;lt;/layoutdirection&amp;gt;&amp;lt;layouttype&amp;gt;ProcessTree&amp;lt;/layouttype&amp;gt;&amp;lt;zoomfactor&amp;gt;100&amp;lt;/zoomfactor&amp;gt;&amp;lt;viewactivitycost&amp;gt;False&amp;lt;/viewactivitycost&amp;gt;&amp;lt;viewactivityduration&amp;gt;False&amp;lt;/viewactivityduration&amp;gt;&amp;lt;viewactivityresources&amp;gt;False&amp;lt;/viewactivityresources&amp;gt;&amp;lt;viewgroups&amp;gt;False&amp;lt;/viewgroups&amp;gt;&amp;lt;viewpools&amp;gt;False&amp;lt;/viewpools&amp;gt;&amp;lt;compatiblewithallcasedefversions&amp;gt;0&amp;lt;/compatiblewithallcasedefversions&amp;gt;&amp;lt;hasdocumentset&amp;gt;False&amp;lt;/hasdocumentset&amp;gt;&amp;lt;startnodes&amp;gt;&amp;lt;startnode&amp;gt;&amp;lt;designtimesettings&amp;gt;&amp;lt;xposition&amp;gt;100&amp;lt;/xposition&amp;gt;&amp;lt;yposition&amp;gt;250&amp;lt;/yposition&amp;gt;&amp;lt;width&amp;gt;30&amp;lt;/width&amp;gt;&amp;lt;height&amp;gt;30&amp;lt;/height&amp;gt;&amp;lt;inheritcolorfromsystem&amp;gt;True&amp;lt;/inheritcolorfromsystem&amp;gt;&amp;lt;colour&amp;gt;#62A716&amp;lt;/colour&amp;gt;&amp;lt;eventtype&amp;gt;Default&amp;lt;/eventtype&amp;gt;&amp;lt;name&amp;gt;Start&amp;lt;/name&amp;gt;&amp;lt;textposition&amp;gt;Top&amp;lt;/textposition&amp;gt;&amp;lt;conditionpathdescription /&amp;gt;&amp;lt;lane&amp;gt;&amp;lt;name /&amp;gt;&amp;lt;index&amp;gt;0&amp;lt;/index&amp;gt;&amp;lt;poolid /&amp;gt;&amp;lt;height&amp;gt;0&amp;lt;/height&amp;gt;&amp;lt;/lane&amp;gt;&amp;lt;annotations /&amp;gt;&amp;lt;attachments /&amp;gt;&amp;lt;/designtimesettings&amp;gt;&amp;lt;/startnode&amp;gt;&amp;lt;/startnodes&amp;gt;&amp;lt;redraw&amp;gt;False&amp;lt;/redraw&amp;gt;&amp;lt;/designtimesettings&amp;gt;&lt;/designtimesettings&gt;&lt;attachments&gt;&lt;/attachments&gt;&lt;annotations&gt;&lt;/annotations&gt;&lt;formsections&gt;&lt;/formsections&gt;&lt;form&gt;&lt;/form&gt;&lt;categoryid&gt;62E18169A4724202B42EBF7C3FDAF9E9&lt;/categoryid&gt;&lt;targetdays&gt;0&lt;/targetdays&gt;&lt;targethours&gt;0&lt;/targethours&gt;&lt;targetmins&gt;0&lt;/targetmins&gt;&lt;targetsecs&gt;0&lt;/targetsecs&gt;&lt;priority&gt;1&lt;/priority&gt;&lt;transactional&gt;0&lt;/transactional&gt;&lt;backgroundcolour&gt;0&lt;/backgroundcolour&gt;&lt;version&gt;3.000000&lt;/version&gt;&lt;cost&gt;0.000000&lt;/cost&gt;&lt;creationdate&gt;2021-09-29T14:50:09&lt;/creationdate&gt;&lt;changedate&gt;2021-09-30T00:33:11&lt;/changedate&gt;&lt;description&gt;&lt;/description&gt;&lt;status&gt;2&lt;/status&gt;&lt;newmap&gt;0&lt;/newmap&gt;&lt;archivefinishedjobs&gt;1&lt;/archivefinishedjobs&gt;&lt;straightthrough&gt;0&lt;/straightthrough&gt;&lt;poolid&gt;0&lt;/poolid&gt;&lt;dynexpfinishtimevar&gt;&lt;/dynexpfinishtimevar&gt;&lt;mapmilestonesrvstdtag /&gt;&lt;mapmilestonescopetag&gt;0&lt;/mapmilestonescopetag&gt;&lt;mapmilestonetag /&gt;&lt;dynamicbudget&gt;&lt;/dynamicbudget&gt;&lt;budget&gt;0.000000&lt;/budget&gt;&lt;processtype&gt;1&lt;/processtype&gt;&lt;processtypestring&gt;CaseDefinition&lt;/processtypestring&gt;&lt;associatedcaseid&gt;&lt;/associatedcaseid&gt;&lt;associatedcase&gt;&lt;/associatedcase&gt;&lt;latestcaseversion&gt;0.000000&lt;/latestcaseversion&gt;&lt;prefixvariable&gt;0&lt;/prefixvariable&gt;&lt;completioneventmapid&gt;&lt;/completioneventmapid&gt;&lt;completioneventmapname&gt;&lt;/completioneventmapname&gt;&lt;assocjobsoncompletion&gt;0&lt;/assocjobsoncompletion&gt;&lt;sendemail&gt;0&lt;/sendemail&gt;&lt;emailto&gt;0&lt;/emailto&gt;&lt;subjecttext&gt;&lt;/subjecttext&gt;&lt;subjectvar&gt;&lt;/subjectvar&gt;&lt;contenttext&gt;&lt;/contenttext&gt;&lt;contentvar&gt;&lt;/contentvar&gt;&lt;urltext&gt;&lt;/urltext&gt;&lt;urlvar&gt;&lt;/urlvar&gt;&lt;appendassocfile&gt;0&lt;/appendassocfile&gt;&lt;initialisationvariables /&gt;&lt;outputvariables /&gt;&lt;maintenanceaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/maintenanceaccess&gt;&lt;creationaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/creationaccess&gt;&lt;suspendaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/suspendaccess&gt;&lt;terminateaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/terminateaccess&gt;&lt;restartaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/restartaccess&gt;&lt;holdaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/holdaccess&gt;&lt;customiseaccess /&gt;&lt;jobdetailviewaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/jobdetailviewaccess&gt;&lt;scanvrsprofileaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/scanvrsprofileaccess&gt;&lt;separationprofileaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/separationprofileaccess&gt;&lt;updatedocumentcontaineraccess /&gt;&lt;editbusinessdataaccess /&gt;&lt;defaultusableresources&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/defaultusableresources&gt;&lt;exceptions&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0004&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when the cost of job exceeds the expected value.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0005&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a job exceeds its expected duration.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0006&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when an activity exceeds its expected duration.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0009&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a Script Object fails to execute automatically.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0010&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a process is stalled.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0013&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when an activity crosses the due date.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0017&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when synchronous processing fails.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0018&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when no usable resource is assigned to an activity.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0019&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a .NET object fails to execute.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0020&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a Web Service object fails to execute.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0022&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a C# Script activity fails to execute when running automatically.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0023&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a VB .NET Script activity fails to execute.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0025&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a Data Access activity fails to execute.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0036&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when the transfer of documents to another server fails to execute.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0038&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when any automatic activity fails to execute.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;/exceptions&gt;&lt;states /&gt;&lt;milestones /&gt;&lt;bpescalations /&gt;&lt;mapvirtualfolders&gt;&lt;virtualfolderstructure&gt;&lt;/virtualfolderstructure&gt;&lt;indexdatacollection /&gt;&lt;mapvirtualfolderstructure&gt;&lt;/mapvirtualfolderstructure&gt;&lt;/mapvirtualfolders&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;xmlexpressionlist /&gt;&lt;ragstatus&gt;&lt;amberthreshold&gt;0&lt;/amberthreshold&gt;&lt;redthreshold&gt;0&lt;/redthreshold&gt;&lt;blackthreshold&gt;0&lt;/blackthreshold&gt;&lt;purplethreshold&gt;0&lt;/purplethreshold&gt;&lt;/ragstatus&gt;&lt;casedefcomruntime_data&gt;&lt;casedefcomruntime&gt;&lt;runtimecaseid&gt;2C3638ABABB1C0FA631FC560A1696BC0&lt;/runtimecaseid&gt;&lt;runtimecaseversion&gt;1.000000&lt;/runtimecaseversion&gt;&lt;runtimecasefrag&gt;3ED872430D2C1F299F96199716FE964E&lt;/runtimecasefrag&gt;&lt;runtimecasefragversion&gt;1.000000&lt;/runtimecasefragversion&gt;&lt;/casedefcomruntime&gt;&lt;casedefcomruntime&gt;&lt;runtimecaseid&gt;2C3638ABABB1C0FA631FC560A1696BC0&lt;/runtimecaseid&gt;&lt;runtimecaseversion&gt;2.000000&lt;/runtimecaseversion&gt;&lt;runtimecasefrag&gt;3ED872430D2C1F299F96199716FE964E&lt;/runtimecasefrag&gt;&lt;runtimecasefragversion&gt;2.000000&lt;/runtimecasefragversion&gt;&lt;/casedefcomruntime&gt;&lt;/casedefcomruntime_data&gt;&lt;archivetopi&gt;0&lt;/archivetopi&gt;&lt;runtime_settings&gt;0&lt;/runtime_settings&gt;&lt;process_owner_id&gt;&lt;/process_owner_id&gt;&lt;score_rule /&gt;&lt;map_valid_from /&gt;&lt;map_valid_to /&gt;&lt;captureenabled&gt;0&lt;/captureenabled&gt;&lt;iscaptureprocess&gt;0&lt;/iscaptureprocess&gt;&lt;reportingtag&gt;&lt;/reportingtag&gt;&lt;settingsxml&gt;&amp;lt;?xml version="1.0" encoding="utf-16"?&amp;gt;
-&amp;lt;BusinessProcessSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&amp;gt;
-  &amp;lt;CaptureProcessSettings&amp;gt;
-    &amp;lt;ClassificationGroup&amp;gt;
-      &amp;lt;Id /&amp;gt;
-      &amp;lt;AutomaticallyPopulate&amp;gt;true&amp;lt;/AutomaticallyPopulate&amp;gt;
-      &amp;lt;Version&amp;gt;0&amp;lt;/Version&amp;gt;
-      &amp;lt;Name /&amp;gt;
-    &amp;lt;/ClassificationGroup&amp;gt;
-    &amp;lt;ScanVrsProfiles&amp;gt;
-      &amp;lt;ScanVrsProfileIdentity&amp;gt;
-        &amp;lt;Id&amp;gt;C525FA863EB74348961543C740ED00A0&amp;lt;/Id&amp;gt;
-        &amp;lt;Name&amp;gt;Default&amp;lt;/Name&amp;gt;
-      &amp;lt;/ScanVrsProfileIdentity&amp;gt;
-    &amp;lt;/ScanVrsProfiles&amp;gt;
-    &amp;lt;SeparationProfile /&amp;gt;
-    &amp;lt;DefaultScanVrsProfile&amp;gt;
-      &amp;lt;Id&amp;gt;C525FA863EB74348961543C740ED00A0&amp;lt;/Id&amp;gt;
-      &amp;lt;Name&amp;gt;Default&amp;lt;/Name&amp;gt;
-    &amp;lt;/DefaultScanVrsProfile&amp;gt;
-    &amp;lt;DocConversionProfiles /&amp;gt;
-    &amp;lt;DefaultDocConversionProfile /&amp;gt;
-    &amp;lt;SaveScannedImageAsPageRendition&amp;gt;false&amp;lt;/SaveScannedImageAsPageRendition&amp;gt;
-    &amp;lt;PageRendition&amp;gt;0&amp;lt;/PageRendition&amp;gt;
-    &amp;lt;PdfTextExtractionMode&amp;gt;0&amp;lt;/PdfTextExtractionMode&amp;gt;
-    &amp;lt;AllowRotateReorderImportedImages&amp;gt;true&amp;lt;/AllowRotateReorderImportedImages&amp;gt;
-    &amp;lt;AllowSplitMergeDeleteImportedDocument&amp;gt;true&amp;lt;/AllowSplitMergeDeleteImportedDocument&amp;gt;
-    &amp;lt;PdfTextWordSeparationChars&amp;gt;/:()-#&amp;lt;/PdfTextWordSeparationChars&amp;gt;
-  &amp;lt;/CaptureProcessSettings&amp;gt;
-  &amp;lt;RetentionPolicySettings&amp;gt;
-    &amp;lt;KeepForever&amp;gt;true&amp;lt;/KeepForever&amp;gt;
-    &amp;lt;RetentionPolicyDuration&amp;gt;
-      &amp;lt;Years&amp;gt;1&amp;lt;/Years&amp;gt;
-      &amp;lt;Months&amp;gt;0&amp;lt;/Months&amp;gt;
-      &amp;lt;Days&amp;gt;0&amp;lt;/Days&amp;gt;
-      &amp;lt;Hours&amp;gt;0&amp;lt;/Hours&amp;gt;
-      &amp;lt;Minutes&amp;gt;0&amp;lt;/Minutes&amp;gt;
-    &amp;lt;/RetentionPolicyDuration&amp;gt;
-  &amp;lt;/RetentionPolicySettings&amp;gt;
-  &amp;lt;MaximumLoopCount&amp;gt;0&amp;lt;/MaximumLoopCount&amp;gt;
-  &amp;lt;ShowSpecificOutputVariables&amp;gt;true&amp;lt;/ShowSpecificOutputVariables&amp;gt;
-  &amp;lt;VariableDisplayPropertiesCollection /&amp;gt;
-&amp;lt;/BusinessProcessSettings&amp;gt;&lt;/settingsxml&gt;&lt;associateddotnetreferences /&gt;&lt;processnotes /&gt;&lt;cnjformidentity&gt;&lt;id /&gt;&lt;name /&gt;&lt;/cnjformidentity&gt;&lt;hasdocumentcontainer&gt;0&lt;/hasdocumentcontainer&gt;&lt;hasdocumentset&gt;0&lt;/hasdocumentset&gt;&lt;/procdata&gt;&lt;entitylist&gt;&lt;/entitylist&gt;&lt;variableslist /&gt;&lt;roleslist /&gt;&lt;processeventlist /&gt;&lt;nodelist&gt;&lt;node&gt;&lt;nodetype&gt;1&lt;/nodetype&gt;&lt;nodedata&gt;&lt;processid&gt;2C3638ABABB1C0FA631FC560A1696BC0&lt;/processid&gt;&lt;version&gt;3.000000&lt;/version&gt;&lt;nodeid&gt;1&lt;/nodeid&gt;&lt;isstartnode&gt;1&lt;/isstartnode&gt;&lt;nodetype&gt;1&lt;/nodetype&gt;&lt;designtimetype&gt;1&lt;/designtimetype&gt;&lt;activationprobability&gt;100&lt;/activationprobability&gt;&lt;embeddedname&gt;&lt;/embeddedname&gt;&lt;state /&gt;&lt;statescope&gt;0&lt;/statescope&gt;&lt;activitymilestone&gt;&lt;/activitymilestone&gt;&lt;activitymilestonescope&gt;0&lt;/activitymilestonescope&gt;&lt;activitypendmilestone&gt;&lt;/activitypendmilestone&gt;&lt;activitypendmilestonescope&gt;0&lt;/activitypendmilestonescope&gt;&lt;activitydonemilestone&gt;&lt;/activitydonemilestone&gt;&lt;activitydonemilestonescope&gt;0&lt;/activitydonemilestonescope&gt;&lt;nodependevent /&gt;&lt;nodependeventscope&gt;0&lt;/nodependeventscope&gt;&lt;nodedoneevent /&gt;&lt;nodedoneeventscope&gt;0&lt;/nodedoneeventscope&gt;&lt;titleposno&gt;5&lt;/titleposno&gt;&lt;embeddedproccount&gt;0&lt;/embeddedproccount&gt;&lt;iscustomnode&gt;0&lt;/iscustomnode&gt;&lt;designtimesettings&gt;&amp;lt;designtimesettings&amp;gt;&amp;lt;xposition&amp;gt;235&amp;lt;/xposition&amp;gt;&amp;lt;yposition&amp;gt;250&amp;lt;/yposition&amp;gt;&amp;lt;width&amp;gt;90&amp;lt;/width&amp;gt;&amp;lt;height&amp;gt;60&amp;lt;/height&amp;gt;&amp;lt;inheritcolorfromsystem&amp;gt;True&amp;lt;/inheritcolorfromsystem&amp;gt;&amp;lt;colour&amp;gt;#FFE3EDF3&amp;lt;/colour&amp;gt;&amp;lt;textposition&amp;gt;Top&amp;lt;/textposition&amp;gt;&amp;lt;conditionpathdescription /&amp;gt;&amp;lt;lane&amp;gt;&amp;lt;name /&amp;gt;&amp;lt;index&amp;gt;0&amp;lt;/index&amp;gt;&amp;lt;poolid /&amp;gt;&amp;lt;height&amp;gt;0&amp;lt;/height&amp;gt;&amp;lt;/lane&amp;gt;&amp;lt;annotations /&amp;gt;&amp;lt;attachments /&amp;gt;&amp;lt;resourcenotes /&amp;gt;&amp;lt;/designtimesettings&amp;gt;&lt;/designtimesettings&gt;&lt;attachments&gt;&lt;/attachments&gt;&lt;annotations&gt;&lt;/annotations&gt;&lt;dependants /&gt;&lt;destinationnodes&gt;&lt;destinationnode&gt;&lt;nodeid&gt;2&lt;/nodeid&gt;&lt;nodetype&gt;6&lt;/nodetype&gt;&lt;/destinationnode&gt;&lt;/destinationnodes&gt;&lt;originnodes /&gt;&lt;branchingrules /&gt;&lt;runtimesettings&gt;0&lt;/runtimesettings&gt;&lt;/nodedata&gt;&lt;activitydata&gt;&lt;inputvariables /&gt;&lt;outputvariables /&gt;&lt;requiredresources /&gt;&lt;usableresources&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;1&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/usableresources&gt;&lt;dynamicresourcesdata&gt;&lt;overwriteusableresources&gt;0&lt;/overwriteusableresources&gt;&lt;dynamicresourcesvariables /&gt;&lt;/dynamicresourcesdata&gt;&lt;targettime&gt;0&lt;/targettime&gt;&lt;delaytime&gt;0&lt;/delaytime&gt;&lt;expectedcost&gt;0.000000&lt;/expectedcost&gt;&lt;securitylevel&gt;10&lt;/securitylevel&gt;&lt;skilllevel&gt;10&lt;/skilllevel&gt;&lt;useprevioususer&gt;0&lt;/useprevioususer&gt;&lt;tasktype&gt;2&lt;/tasktype&gt;&lt;priority&gt;1&lt;/priority&gt;&lt;automatic&gt;0&lt;/automatic&gt;&lt;trackstorejvh&gt;0&lt;/trackstorejvh&gt;&lt;usesameasprevious&gt;0&lt;/usesameasprevious&gt;&lt;taskid&gt;0&lt;/taskid&gt;&lt;usesameasprevioustype&gt;0&lt;/usesameasprevioustype&gt;&lt;fixedcost&gt;0.000000&lt;/fixedcost&gt;&lt;taskname&gt;Activity 1&lt;/taskname&gt;&lt;resourceid /&gt;&lt;createdby&gt;37B30C5D37034F3C92842C76E7BC18D3&lt;/createdby&gt;&lt;purpose&gt;&lt;/purpose&gt;&lt;description&gt;&lt;/description&gt;&lt;script&gt;&lt;/script&gt;&lt;processid /&gt;&lt;creationdate&gt;2021-09-30T00:37:00.41566&lt;/creationdate&gt;&lt;transactionalinfo /&gt;&lt;createnewjobinfo&gt;&lt;cnjprocessid&gt;&lt;/cnjprocessid&gt;&lt;initparams&gt;&lt;/initparams&gt;&lt;outputs&gt;&lt;/outputs&gt;&lt;varid&gt;&lt;/varid&gt;&lt;jobtype&gt;0&lt;/jobtype&gt;&lt;reftype&gt;0&lt;/reftype&gt;&lt;/createnewjobinfo&gt;&lt;scriptprogid&gt;&lt;/scriptprogid&gt;&lt;preloadscript&gt;1&lt;/preloadscript&gt;&lt;assocfile&gt;&lt;/assocfile&gt;&lt;designinfo /&gt;&lt;sleepinfo&gt;0&lt;/sleepinfo&gt;&lt;jobowneridinfo&gt;&lt;/jobowneridinfo&gt;&lt;jobownervaridinfo&gt;&lt;/jobownervaridinfo&gt;&lt;negativelagtime&gt;0&lt;/negativelagtime&gt;&lt;dynduedate&gt;0&lt;/dynduedate&gt;&lt;dynduedatevar /&gt;&lt;dyntargetdurationvar /&gt;&lt;sendemail&gt;0&lt;/sendemail&gt;&lt;emailto&gt;0&lt;/emailto&gt;&lt;subjecttext&gt;&lt;/subjecttext&gt;&lt;subjectvar&gt;&lt;/subjectvar&gt;&lt;contenttext&gt;&lt;/contenttext&gt;&lt;contentvar&gt;&lt;/contentvar&gt;&lt;urltext&gt;&lt;/urltext&gt;&lt;urlvar&gt;&lt;/urlvar&gt;&lt;appendassocfile&gt;0&lt;/appendassocfile&gt;&lt;dotnet /&gt;&lt;webservice /&gt;&lt;activityinfo&gt;&lt;useadvworkflowrules&gt;0&lt;/useadvworkflowrules&gt;&lt;seqactivityassignment&gt;0&lt;/seqactivityassignment&gt;&lt;concuractivityaccess&gt;0&lt;/concuractivityaccess&gt;&lt;noofusableresourcesreq&gt;0&lt;/noofusableresourcesreq&gt;&lt;exitcondition /&gt;&lt;expandgroups&gt;0&lt;/expandgroups&gt;&lt;noofusableresourcesreqvarid /&gt;&lt;/activityinfo&gt;&lt;categoryid&gt;62E18169A4724202B42EBF7C3FDAF9E9&lt;/categoryid&gt;&lt;poolid&gt;0&lt;/poolid&gt;&lt;activityruntimesettings&gt;0&lt;/activityruntimesettings&gt;&lt;activityragamberthreshold&gt;0&lt;/activityragamberthreshold&gt;&lt;activityragredthreshold&gt;0&lt;/activityragredthreshold&gt;&lt;activityragblackthreshold&gt;0&lt;/activityragblackthreshold&gt;&lt;activityragpurplethreshold&gt;0&lt;/activityragpurplethreshold&gt;&lt;form /&gt;&lt;xmldata /&gt;&lt;dataaccess /&gt;&lt;getresourceinfo /&gt;&lt;jobvariableinfo /&gt;&lt;baminfo /&gt;&lt;bpescalations /&gt;&lt;preconditionslist /&gt;&lt;preconditiontext&gt;&lt;/preconditiontext&gt;&lt;startmethod&gt;&lt;/startmethod&gt;&lt;classnamespace&gt;&lt;/classnamespace&gt;&lt;resetlimit&gt;-1&lt;/resetlimit&gt;&lt;activitytimedoutaction&gt;0&lt;/activitytimedoutaction&gt;&lt;suspendreasontext&gt;&lt;/suspendreasontext&gt;&lt;suspendreasonvarid&gt;&lt;/suspendreasonvarid&gt;&lt;/activitydata&gt;&lt;/node&gt;&lt;node&gt;&lt;nodetype&gt;6&lt;/nodetype&gt;&lt;nodedata&gt;&lt;processid&gt;2C3638ABABB1C0FA631FC560A1696BC0&lt;/processid&gt;&lt;version&gt;3.000000&lt;/version&gt;&lt;nodeid&gt;2&lt;/nodeid&gt;&lt;isstartnode&gt;0&lt;/isstartnode&gt;&lt;nodetype&gt;6&lt;/nodetype&gt;&lt;designtimetype&gt;0&lt;/designtimetype&gt;&lt;activationprobability&gt;100&lt;/activationprobability&gt;&lt;embeddedname&gt;&lt;/embeddedname&gt;&lt;state /&gt;&lt;statescope&gt;0&lt;/statescope&gt;&lt;activitymilestone /&gt;&lt;activitymilestonescope&gt;0&lt;/activitymilestonescope&gt;&lt;activitypendmilestone&gt;&lt;/activitypendmilestone&gt;&lt;activitypendmilestonescope&gt;0&lt;/activitypendmilestonescope&gt;&lt;activitydonemilestone&gt;&lt;/activitydonemilestone&gt;&lt;activitydonemilestonescope&gt;0&lt;/activitydonemilestonescope&gt;&lt;nodependevent /&gt;&lt;nodependeventscope&gt;0&lt;/nodependeventscope&gt;&lt;nodedoneevent /&gt;&lt;nodedoneeventscope&gt;0&lt;/nodedoneeventscope&gt;&lt;titleposno&gt;5&lt;/titleposno&gt;&lt;embeddedproccount&gt;0&lt;/embeddedproccount&gt;&lt;iscustomnode&gt;0&lt;/iscustomnode&gt;&lt;designtimesettings&gt;&amp;lt;designtimesettings&amp;gt;&amp;lt;xposition&amp;gt;400&amp;lt;/xposition&amp;gt;&amp;lt;yposition&amp;gt;250&amp;lt;/yposition&amp;gt;&amp;lt;width&amp;gt;30&amp;lt;/width&amp;gt;&amp;lt;height&amp;gt;30&amp;lt;/height&amp;gt;&amp;lt;inheritcolorfromsystem&amp;gt;True&amp;lt;/inheritcolorfromsystem&amp;gt;&amp;lt;colour&amp;gt;#FF9B0000&amp;lt;/colour&amp;gt;&amp;lt;eventtype&amp;gt;Default&amp;lt;/eventtype&amp;gt;&amp;lt;name&amp;gt;End&amp;lt;/name&amp;gt;&amp;lt;textposition&amp;gt;Top&amp;lt;/textposition&amp;gt;&amp;lt;conditionpathdescription /&amp;gt;&amp;lt;lane&amp;gt;&amp;lt;name /&amp;gt;&amp;lt;index&amp;gt;0&amp;lt;/index&amp;gt;&amp;lt;poolid /&amp;gt;&amp;lt;height&amp;gt;0&amp;lt;/height&amp;gt;&amp;lt;/lane&amp;gt;&amp;lt;annotations /&amp;gt;&amp;lt;attachments /&amp;gt;&amp;lt;/designtimesettings&amp;gt;&lt;/designtimesettings&gt;&lt;attachments&gt;&lt;/attachments&gt;&lt;annotations&gt;&lt;/annotations&gt;&lt;dependants /&gt;&lt;destinationnodes /&gt;&lt;originnodes&gt;&lt;originnode&gt;&lt;nodeid&gt;1&lt;/nodeid&gt;&lt;nodetype&gt;6&lt;/nodetype&gt;&lt;/originnode&gt;&lt;/originnodes&gt;&lt;branchingrules /&gt;&lt;runtimesettings&gt;0&lt;/runtimesettings&gt;&lt;/nodedata&gt;&lt;/node&gt;&lt;/nodelist&gt;&lt;documentprocessrulecollection /&gt;&lt;/processmap&gt;&lt;/processmaps&gt;</Xml>
-            <FileName>2C3638ABABB1C0FA631FC560A1696BC0_V3.xml</FileName>
-            <Process>
-              <Id>2C3638ABABB1C0FA631FC560A1696BC0</Id>
-              <AutomaticallyPopulate>true</AutomaticallyPopulate>
-              <Version>3</Version>
-              <Name>TestSavedCd</Name>
-            </Process>
-            <ProcessType>CaseDefinition</ProcessType>
-            <Assets />
-          </ExportedProcess>
-          <ExportedProcess>
-            <Xml>&lt;processmaps xmlns:dt="urn:schemas-microsoft-com:datatypes" dbversion="7.10" parentprocessmapversion="3.000000" parentprocessmapid="3ED872430D2C1F299F96199716FE964E"&gt;&lt;projectlist /&gt;&lt;webservices&gt;&lt;/webservices&gt;&lt;projectlist /&gt;&lt;processmap&gt;&lt;procdata&gt;&lt;mapid&gt;3ED872430D2C1F299F96199716FE964E&lt;/mapid&gt;&lt;mapname&gt;TestSavedFrag&lt;/mapname&gt;&lt;mapauthor&gt;Sunanda.Varma&lt;/mapauthor&gt;&lt;mapauthorid&gt;37B30C5D37034F3C92842C76E7BC18D3&lt;/mapauthorid&gt;&lt;maptrackstorejvh&gt;0&lt;/maptrackstorejvh&gt;&lt;helptext&gt;&lt;/helptext&gt;&lt;lastmodified&gt;37B30C5D37034F3C92842C76E7BC18D3&lt;/lastmodified&gt;&lt;allocationalgorithm&gt;0&lt;/allocationalgorithm&gt;&lt;arrowstyle&gt;0&lt;/arrowstyle&gt;&lt;arrowweighting&gt;0&lt;/arrowweighting&gt;&lt;designtimesettings&gt;&amp;lt;designtimesettings&amp;gt;&amp;lt;annotations /&amp;gt;&amp;lt;attachments /&amp;gt;&amp;lt;collaborationnodes /&amp;gt;&amp;lt;groupartifacts /&amp;gt;&amp;lt;pools&amp;gt;&amp;lt;pool&amp;gt;&amp;lt;xposition&amp;gt;25&amp;lt;/xposition&amp;gt;&amp;lt;yposition&amp;gt;25&amp;lt;/yposition&amp;gt;&amp;lt;width&amp;gt;1400&amp;lt;/width&amp;gt;&amp;lt;height&amp;gt;600&amp;lt;/height&amp;gt;&amp;lt;name&amp;gt;New process&amp;lt;/name&amp;gt;&amp;lt;id&amp;gt;AD7B298D9B3A3458DCBB206FBCB73D02&amp;lt;/id&amp;gt;&amp;lt;type&amp;gt;0&amp;lt;/type&amp;gt;&amp;lt;lanes&amp;gt;&amp;lt;lane&amp;gt;&amp;lt;name&amp;gt;Lane1&amp;lt;/name&amp;gt;&amp;lt;index&amp;gt;0&amp;lt;/index&amp;gt;&amp;lt;poolid&amp;gt;AD7B298D9B3A3458DCBB206FBCB73D02&amp;lt;/poolid&amp;gt;&amp;lt;height&amp;gt;600&amp;lt;/height&amp;gt;&amp;lt;/lane&amp;gt;&amp;lt;/lanes&amp;gt;&amp;lt;/pool&amp;gt;&amp;lt;/pools&amp;gt;&amp;lt;messageflows /&amp;gt;&amp;lt;layoutdirection&amp;gt;Horizontal&amp;lt;/layoutdirection&amp;gt;&amp;lt;layouttype&amp;gt;ProcessTree&amp;lt;/layouttype&amp;gt;&amp;lt;zoomfactor&amp;gt;100&amp;lt;/zoomfactor&amp;gt;&amp;lt;viewactivitycost&amp;gt;False&amp;lt;/viewactivitycost&amp;gt;&amp;lt;viewactivityduration&amp;gt;False&amp;lt;/viewactivityduration&amp;gt;&amp;lt;viewactivityresources&amp;gt;False&amp;lt;/viewactivityresources&amp;gt;&amp;lt;viewgroups&amp;gt;False&amp;lt;/viewgroups&amp;gt;&amp;lt;viewpools&amp;gt;False&amp;lt;/viewpools&amp;gt;&amp;lt;compatiblewithallcasedefversions&amp;gt;0&amp;lt;/compatiblewithallcasedefversions&amp;gt;&amp;lt;hasdocumentset&amp;gt;False&amp;lt;/hasdocumentset&amp;gt;&amp;lt;startnodes&amp;gt;&amp;lt;startnode&amp;gt;&amp;lt;designtimesettings&amp;gt;&amp;lt;xposition&amp;gt;100&amp;lt;/xposition&amp;gt;&amp;lt;yposition&amp;gt;250&amp;lt;/yposition&amp;gt;&amp;lt;width&amp;gt;30&amp;lt;/width&amp;gt;&amp;lt;height&amp;gt;30&amp;lt;/height&amp;gt;&amp;lt;inheritcolorfromsystem&amp;gt;True&amp;lt;/inheritcolorfromsystem&amp;gt;&amp;lt;colour&amp;gt;#62A716&amp;lt;/colour&amp;gt;&amp;lt;eventtype&amp;gt;Default&amp;lt;/eventtype&amp;gt;&amp;lt;name&amp;gt;Start&amp;lt;/name&amp;gt;&amp;lt;textposition&amp;gt;Top&amp;lt;/textposition&amp;gt;&amp;lt;conditionpathdescription /&amp;gt;&amp;lt;lane&amp;gt;&amp;lt;name /&amp;gt;&amp;lt;index&amp;gt;0&amp;lt;/index&amp;gt;&amp;lt;poolid /&amp;gt;&amp;lt;height&amp;gt;0&amp;lt;/height&amp;gt;&amp;lt;/lane&amp;gt;&amp;lt;annotations /&amp;gt;&amp;lt;attachments /&amp;gt;&amp;lt;/designtimesettings&amp;gt;&amp;lt;/startnode&amp;gt;&amp;lt;/startnodes&amp;gt;&amp;lt;redraw&amp;gt;False&amp;lt;/redraw&amp;gt;&amp;lt;/designtimesettings&amp;gt;&lt;/designtimesettings&gt;&lt;attachments&gt;&lt;/attachments&gt;&lt;annotations&gt;&lt;/annotations&gt;&lt;formsections&gt;&lt;/formsections&gt;&lt;form&gt;&lt;/form&gt;&lt;categoryid&gt;62E18169A4724202B42EBF7C3FDAF9E9&lt;/categoryid&gt;&lt;targetdays&gt;0&lt;/targetdays&gt;&lt;targethours&gt;0&lt;/targethours&gt;&lt;targetmins&gt;0&lt;/targetmins&gt;&lt;targetsecs&gt;0&lt;/targetsecs&gt;&lt;priority&gt;1&lt;/priority&gt;&lt;transactional&gt;0&lt;/transactional&gt;&lt;backgroundcolour&gt;0&lt;/backgroundcolour&gt;&lt;version&gt;3.000000&lt;/version&gt;&lt;cost&gt;0.000000&lt;/cost&gt;&lt;creationdate&gt;2021-09-29T14:50:26&lt;/creationdate&gt;&lt;changedate&gt;2021-09-30T00:33:42&lt;/changedate&gt;&lt;description&gt;&lt;/description&gt;&lt;status&gt;2&lt;/status&gt;&lt;newmap&gt;0&lt;/newmap&gt;&lt;archivefinishedjobs&gt;1&lt;/archivefinishedjobs&gt;&lt;straightthrough&gt;0&lt;/straightthrough&gt;&lt;poolid&gt;0&lt;/poolid&gt;&lt;dynexpfinishtimevar&gt;&lt;/dynexpfinishtimevar&gt;&lt;mapmilestonesrvstdtag /&gt;&lt;mapmilestonescopetag&gt;0&lt;/mapmilestonescopetag&gt;&lt;mapmilestonetag /&gt;&lt;dynamicbudget&gt;&lt;/dynamicbudget&gt;&lt;budget&gt;0.000000&lt;/budget&gt;&lt;processtype&gt;2&lt;/processtype&gt;&lt;processtypestring&gt;CaseFragment&lt;/processtypestring&gt;&lt;associatedcaseid&gt;2C3638ABABB1C0FA631FC560A1696BC0&lt;/associatedcaseid&gt;&lt;associatedcase&gt;&lt;/associatedcase&gt;&lt;latestcaseversion&gt;3.000000&lt;/latestcaseversion&gt;&lt;prefixvariable&gt;0&lt;/prefixvariable&gt;&lt;completioneventmapid&gt;&lt;/completioneventmapid&gt;&lt;completioneventmapname&gt;&lt;/completioneventmapname&gt;&lt;assocjobsoncompletion&gt;0&lt;/assocjobsoncompletion&gt;&lt;sendemail&gt;0&lt;/sendemail&gt;&lt;emailto&gt;0&lt;/emailto&gt;&lt;subjecttext&gt;&lt;/subjecttext&gt;&lt;subjectvar&gt;&lt;/subjectvar&gt;&lt;contenttext&gt;&lt;/contenttext&gt;&lt;contentvar&gt;&lt;/contentvar&gt;&lt;urltext&gt;&lt;/urltext&gt;&lt;urlvar&gt;&lt;/urlvar&gt;&lt;appendassocfile&gt;0&lt;/appendassocfile&gt;&lt;initialisationvariables /&gt;&lt;outputvariables /&gt;&lt;maintenanceaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/maintenanceaccess&gt;&lt;creationaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/creationaccess&gt;&lt;suspendaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/suspendaccess&gt;&lt;terminateaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/terminateaccess&gt;&lt;restartaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/restartaccess&gt;&lt;holdaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/holdaccess&gt;&lt;customiseaccess /&gt;&lt;jobdetailviewaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/jobdetailviewaccess&gt;&lt;scanvrsprofileaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/scanvrsprofileaccess&gt;&lt;separationprofileaccess&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/separationprofileaccess&gt;&lt;updatedocumentcontaineraccess /&gt;&lt;editbusinessdataaccess /&gt;&lt;defaultusableresources&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;0&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/defaultusableresources&gt;&lt;exceptions&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0004&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when the cost of job exceeds the expected value.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0005&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a job exceeds its expected duration.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0006&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when an activity exceeds its expected duration.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0009&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a Script Object fails to execute automatically.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0010&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a process is stalled.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0013&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when an activity crosses the due date.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0017&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when synchronous processing fails.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0018&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when no usable resource is assigned to an activity.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0019&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a .NET object fails to execute.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0020&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a Web Service object fails to execute.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0022&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a C# Script activity fails to execute when running automatically.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0023&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a VB .NET Script activity fails to execute.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0025&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when a Data Access activity fails to execute.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0036&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when the transfer of documents to another server fails to execute.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;exception&gt;&lt;exceptioncode&gt;EXP0038&lt;/exceptioncode&gt;&lt;processmapid /&gt;&lt;processmapname /&gt;&lt;description&gt;Invoked when any automatic activity fails to execute.&lt;/description&gt;&lt;version&gt;0.000000&lt;/version&gt;&lt;serveronly&gt;0&lt;/serveronly&gt;&lt;/exception&gt;&lt;/exceptions&gt;&lt;states /&gt;&lt;milestones /&gt;&lt;bpescalations /&gt;&lt;mapvirtualfolders&gt;&lt;virtualfolderstructure&gt;&lt;/virtualfolderstructure&gt;&lt;indexdatacollection /&gt;&lt;mapvirtualfolderstructure&gt;&lt;/mapvirtualfolderstructure&gt;&lt;/mapvirtualfolders&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;xmlexpressionlist /&gt;&lt;ragstatus&gt;&lt;amberthreshold&gt;0&lt;/amberthreshold&gt;&lt;redthreshold&gt;0&lt;/redthreshold&gt;&lt;blackthreshold&gt;0&lt;/blackthreshold&gt;&lt;purplethreshold&gt;0&lt;/purplethreshold&gt;&lt;/ragstatus&gt;&lt;casedefcomruntime_data /&gt;&lt;archivetopi&gt;0&lt;/archivetopi&gt;&lt;runtime_settings&gt;0&lt;/runtime_settings&gt;&lt;process_owner_id&gt;&lt;/process_owner_id&gt;&lt;score_rule /&gt;&lt;map_valid_from /&gt;&lt;map_valid_to /&gt;&lt;captureenabled&gt;0&lt;/captureenabled&gt;&lt;iscaptureprocess&gt;0&lt;/iscaptureprocess&gt;&lt;reportingtag&gt;&lt;/reportingtag&gt;&lt;settingsxml&gt;&amp;lt;?xml version="1.0" encoding="utf-16"?&amp;gt;
-&amp;lt;BusinessProcessSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&amp;gt;
-  &amp;lt;CaptureProcessSettings&amp;gt;
-    &amp;lt;ClassificationGroup&amp;gt;
-      &amp;lt;Id /&amp;gt;
-      &amp;lt;AutomaticallyPopulate&amp;gt;true&amp;lt;/AutomaticallyPopulate&amp;gt;
-      &amp;lt;Version&amp;gt;0&amp;lt;/Version&amp;gt;
-      &amp;lt;Name /&amp;gt;
-    &amp;lt;/ClassificationGroup&amp;gt;
-    &amp;lt;ScanVrsProfiles&amp;gt;
-      &amp;lt;ScanVrsProfileIdentity&amp;gt;
-        &amp;lt;Id&amp;gt;C525FA863EB74348961543C740ED00A0&amp;lt;/Id&amp;gt;
-        &amp;lt;Name&amp;gt;Default&amp;lt;/Name&amp;gt;
-      &amp;lt;/ScanVrsProfileIdentity&amp;gt;
-    &amp;lt;/ScanVrsProfiles&amp;gt;
-    &amp;lt;SeparationProfile /&amp;gt;
-    &amp;lt;DefaultScanVrsProfile&amp;gt;
-      &amp;lt;Id&amp;gt;C525FA863EB74348961543C740ED00A0&amp;lt;/Id&amp;gt;
-      &amp;lt;Name&amp;gt;Default&amp;lt;/Name&amp;gt;
-    &amp;lt;/DefaultScanVrsProfile&amp;gt;
-    &amp;lt;DocConversionProfiles /&amp;gt;
-    &amp;lt;DefaultDocConversionProfile /&amp;gt;
-    &amp;lt;SaveScannedImageAsPageRendition&amp;gt;false&amp;lt;/SaveScannedImageAsPageRendition&amp;gt;
-    &amp;lt;PageRendition&amp;gt;0&amp;lt;/PageRendition&amp;gt;
-    &amp;lt;PdfTextExtractionMode&amp;gt;0&amp;lt;/PdfTextExtractionMode&amp;gt;
-    &amp;lt;AllowRotateReorderImportedImages&amp;gt;true&amp;lt;/AllowRotateReorderImportedImages&amp;gt;
-    &amp;lt;AllowSplitMergeDeleteImportedDocument&amp;gt;true&amp;lt;/AllowSplitMergeDeleteImportedDocument&amp;gt;
-    &amp;lt;PdfTextWordSeparationChars&amp;gt;/:()-#&amp;lt;/PdfTextWordSeparationChars&amp;gt;
-  &amp;lt;/CaptureProcessSettings&amp;gt;
-  &amp;lt;RetentionPolicySettings&amp;gt;
-    &amp;lt;KeepForever&amp;gt;true&amp;lt;/KeepForever&amp;gt;
-    &amp;lt;RetentionPolicyDuration&amp;gt;
-      &amp;lt;Years&amp;gt;1&amp;lt;/Years&amp;gt;
-      &amp;lt;Months&amp;gt;0&amp;lt;/Months&amp;gt;
-      &amp;lt;Days&amp;gt;0&amp;lt;/Days&amp;gt;
-      &amp;lt;Hours&amp;gt;0&amp;lt;/Hours&amp;gt;
-      &amp;lt;Minutes&amp;gt;0&amp;lt;/Minutes&amp;gt;
-    &amp;lt;/RetentionPolicyDuration&amp;gt;
-  &amp;lt;/RetentionPolicySettings&amp;gt;
-  &amp;lt;MaximumLoopCount&amp;gt;0&amp;lt;/MaximumLoopCount&amp;gt;
-  &amp;lt;ShowSpecificOutputVariables&amp;gt;true&amp;lt;/ShowSpecificOutputVariables&amp;gt;
-  &amp;lt;VariableDisplayPropertiesCollection /&amp;gt;
-&amp;lt;/BusinessProcessSettings&amp;gt;&lt;/settingsxml&gt;&lt;associateddotnetreferences /&gt;&lt;processnotes /&gt;&lt;cnjformidentity&gt;&lt;id /&gt;&lt;name /&gt;&lt;/cnjformidentity&gt;&lt;hasdocumentcontainer&gt;0&lt;/hasdocumentcontainer&gt;&lt;hasdocumentset&gt;0&lt;/hasdocumentset&gt;&lt;/procdata&gt;&lt;entitylist&gt;&lt;/entitylist&gt;&lt;variableslist /&gt;&lt;roleslist /&gt;&lt;processeventlist /&gt;&lt;nodelist&gt;&lt;node&gt;&lt;nodetype&gt;1&lt;/nodetype&gt;&lt;nodedata&gt;&lt;processid&gt;3ED872430D2C1F299F96199716FE964E&lt;/processid&gt;&lt;version&gt;3.000000&lt;/version&gt;&lt;nodeid&gt;1&lt;/nodeid&gt;&lt;isstartnode&gt;1&lt;/isstartnode&gt;&lt;nodetype&gt;1&lt;/nodetype&gt;&lt;designtimetype&gt;1&lt;/designtimetype&gt;&lt;activationprobability&gt;100&lt;/activationprobability&gt;&lt;embeddedname&gt;&lt;/embeddedname&gt;&lt;state /&gt;&lt;statescope&gt;0&lt;/statescope&gt;&lt;activitymilestone&gt;&lt;/activitymilestone&gt;&lt;activitymilestonescope&gt;0&lt;/activitymilestonescope&gt;&lt;activitypendmilestone&gt;&lt;/activitypendmilestone&gt;&lt;activitypendmilestonescope&gt;0&lt;/activitypendmilestonescope&gt;&lt;activitydonemilestone&gt;&lt;/activitydonemilestone&gt;&lt;activitydonemilestonescope&gt;0&lt;/activitydonemilestonescope&gt;&lt;nodependevent /&gt;&lt;nodependeventscope&gt;0&lt;/nodependeventscope&gt;&lt;nodedoneevent /&gt;&lt;nodedoneeventscope&gt;0&lt;/nodedoneeventscope&gt;&lt;titleposno&gt;5&lt;/titleposno&gt;&lt;embeddedproccount&gt;0&lt;/embeddedproccount&gt;&lt;iscustomnode&gt;0&lt;/iscustomnode&gt;&lt;designtimesettings&gt;&amp;lt;designtimesettings&amp;gt;&amp;lt;xposition&amp;gt;235&amp;lt;/xposition&amp;gt;&amp;lt;yposition&amp;gt;250&amp;lt;/yposition&amp;gt;&amp;lt;width&amp;gt;90&amp;lt;/width&amp;gt;&amp;lt;height&amp;gt;60&amp;lt;/height&amp;gt;&amp;lt;inheritcolorfromsystem&amp;gt;True&amp;lt;/inheritcolorfromsystem&amp;gt;&amp;lt;colour&amp;gt;#FFE3EDF3&amp;lt;/colour&amp;gt;&amp;lt;textposition&amp;gt;Top&amp;lt;/textposition&amp;gt;&amp;lt;conditionpathdescription /&amp;gt;&amp;lt;lane&amp;gt;&amp;lt;name /&amp;gt;&amp;lt;index&amp;gt;0&amp;lt;/index&amp;gt;&amp;lt;poolid /&amp;gt;&amp;lt;height&amp;gt;0&amp;lt;/height&amp;gt;&amp;lt;/lane&amp;gt;&amp;lt;annotations /&amp;gt;&amp;lt;attachments /&amp;gt;&amp;lt;resourcenotes /&amp;gt;&amp;lt;/designtimesettings&amp;gt;&lt;/designtimesettings&gt;&lt;attachments&gt;&lt;/attachments&gt;&lt;annotations&gt;&lt;/annotations&gt;&lt;dependants /&gt;&lt;destinationnodes&gt;&lt;destinationnode&gt;&lt;nodeid&gt;2&lt;/nodeid&gt;&lt;nodetype&gt;6&lt;/nodetype&gt;&lt;/destinationnode&gt;&lt;/destinationnodes&gt;&lt;originnodes /&gt;&lt;branchingrules /&gt;&lt;runtimesettings&gt;0&lt;/runtimesettings&gt;&lt;/nodedata&gt;&lt;activitydata&gt;&lt;inputvariables /&gt;&lt;outputvariables /&gt;&lt;requiredresources /&gt;&lt;usableresources&gt;&lt;resource&gt;&lt;resourcetype&gt;3&lt;/resourcetype&gt;&lt;resourcename&gt;Everyone&lt;/resourcename&gt;&lt;resourceid&gt;7DF43CCDF24611D2804B00104B71BD15&lt;/resourceid&gt;&lt;serverid&gt;C23EC00ED854BC46BEFD77B8126524B5&lt;/serverid&gt;&lt;unavailability&gt;Default&lt;/unavailability&gt;&lt;accesstype&gt;0&lt;/accesstype&gt;&lt;seqassignorder&gt;1&lt;/seqassignorder&gt;&lt;excluded&gt;0&lt;/excluded&gt;&lt;/resource&gt;&lt;/usableresources&gt;&lt;dynamicresourcesdata&gt;&lt;overwriteusableresources&gt;0&lt;/overwriteusableresources&gt;&lt;dynamicresourcesvariables /&gt;&lt;/dynamicresourcesdata&gt;&lt;targettime&gt;0&lt;/targettime&gt;&lt;delaytime&gt;0&lt;/delaytime&gt;&lt;expectedcost&gt;0.000000&lt;/expectedcost&gt;&lt;securitylevel&gt;10&lt;/securitylevel&gt;&lt;skilllevel&gt;10&lt;/skilllevel&gt;&lt;useprevioususer&gt;0&lt;/useprevioususer&gt;&lt;tasktype&gt;2&lt;/tasktype&gt;&lt;priority&gt;1&lt;/priority&gt;&lt;automatic&gt;0&lt;/automatic&gt;&lt;trackstorejvh&gt;0&lt;/trackstorejvh&gt;&lt;usesameasprevious&gt;0&lt;/usesameasprevious&gt;&lt;taskid&gt;0&lt;/taskid&gt;&lt;usesameasprevioustype&gt;0&lt;/usesameasprevioustype&gt;&lt;fixedcost&gt;0.000000&lt;/fixedcost&gt;&lt;taskname&gt;Activity 1&lt;/taskname&gt;&lt;resourceid /&gt;&lt;createdby&gt;37B30C5D37034F3C92842C76E7BC18D3&lt;/createdby&gt;&lt;purpose&gt;&lt;/purpose&gt;&lt;description&gt;&lt;/description&gt;&lt;script&gt;&lt;/script&gt;&lt;processid /&gt;&lt;creationdate&gt;2021-09-30T00:37:00.51767&lt;/creationdate&gt;&lt;transactionalinfo /&gt;&lt;createnewjobinfo&gt;&lt;cnjprocessid&gt;&lt;/cnjprocessid&gt;&lt;initparams&gt;&lt;/initparams&gt;&lt;outputs&gt;&lt;/outputs&gt;&lt;varid&gt;&lt;/varid&gt;&lt;jobtype&gt;0&lt;/jobtype&gt;&lt;reftype&gt;0&lt;/reftype&gt;&lt;/createnewjobinfo&gt;&lt;scriptprogid&gt;&lt;/scriptprogid&gt;&lt;preloadscript&gt;1&lt;/preloadscript&gt;&lt;assocfile&gt;&lt;/assocfile&gt;&lt;designinfo /&gt;&lt;sleepinfo&gt;0&lt;/sleepinfo&gt;&lt;jobowneridinfo&gt;&lt;/jobowneridinfo&gt;&lt;jobownervaridinfo&gt;&lt;/jobownervaridinfo&gt;&lt;negativelagtime&gt;0&lt;/negativelagtime&gt;&lt;dynduedate&gt;0&lt;/dynduedate&gt;&lt;dynduedatevar /&gt;&lt;dyntargetdurationvar /&gt;&lt;sendemail&gt;0&lt;/sendemail&gt;&lt;emailto&gt;0&lt;/emailto&gt;&lt;subjecttext&gt;&lt;/subjecttext&gt;&lt;subjectvar&gt;&lt;/subjectvar&gt;&lt;contenttext&gt;&lt;/contenttext&gt;&lt;contentvar&gt;&lt;/contentvar&gt;&lt;urltext&gt;&lt;/urltext&gt;&lt;urlvar&gt;&lt;/urlvar&gt;&lt;appendassocfile&gt;0&lt;/appendassocfile&gt;&lt;dotnet /&gt;&lt;webservice /&gt;&lt;activityinfo&gt;&lt;useadvworkflowrules&gt;0&lt;/useadvworkflowrules&gt;&lt;seqactivityassignment&gt;0&lt;/seqactivityassignment&gt;&lt;concuractivityaccess&gt;0&lt;/concuractivityaccess&gt;&lt;noofusableresourcesreq&gt;0&lt;/noofusableresourcesreq&gt;&lt;exitcondition /&gt;&lt;expandgroups&gt;0&lt;/expandgroups&gt;&lt;noofusableresourcesreqvarid /&gt;&lt;/activityinfo&gt;&lt;categoryid&gt;62E18169A4724202B42EBF7C3FDAF9E9&lt;/categoryid&gt;&lt;poolid&gt;0&lt;/poolid&gt;&lt;activityruntimesettings&gt;0&lt;/activityruntimesettings&gt;&lt;activityragamberthreshold&gt;0&lt;/activityragamberthreshold&gt;&lt;activityragredthreshold&gt;0&lt;/activityragredthreshold&gt;&lt;activityragblackthreshold&gt;0&lt;/activityragblackthreshold&gt;&lt;activityragpurplethreshold&gt;0&lt;/activityragpurplethreshold&gt;&lt;form /&gt;&lt;xmldata /&gt;&lt;dataaccess /&gt;&lt;getresourceinfo /&gt;&lt;jobvariableinfo /&gt;&lt;baminfo /&gt;&lt;bpescalations /&gt;&lt;preconditionslist /&gt;&lt;preconditiontext&gt;&lt;/preconditiontext&gt;&lt;startmethod&gt;&lt;/startmethod&gt;&lt;classnamespace&gt;&lt;/classnamespace&gt;&lt;resetlimit&gt;-1&lt;/resetlimit&gt;&lt;activitytimedoutaction&gt;0&lt;/activitytimedoutaction&gt;&lt;suspendreasontext&gt;&lt;/suspendreasontext&gt;&lt;suspendreasonvarid&gt;&lt;/suspendreasonvarid&gt;&lt;/activitydata&gt;&lt;/node&gt;&lt;node&gt;&lt;nodetype&gt;6&lt;/nodetype&gt;&lt;nodedata&gt;&lt;processid&gt;3ED872430D2C1F299F96199716FE964E&lt;/processid&gt;&lt;version&gt;3.000000&lt;/version&gt;&lt;nodeid&gt;2&lt;/nodeid&gt;&lt;isstartnode&gt;0&lt;/isstartnode&gt;&lt;nodetype&gt;6&lt;/nodetype&gt;&lt;designtimetype&gt;0&lt;/designtimetype&gt;&lt;activationprobability&gt;100&lt;/activationprobability&gt;&lt;embeddedname&gt;&lt;/embeddedname&gt;&lt;state /&gt;&lt;statescope&gt;0&lt;/statescope&gt;&lt;activitymilestone /&gt;&lt;activitymilestonescope&gt;0&lt;/activitymilestonescope&gt;&lt;activitypendmilestone&gt;&lt;/activitypendmilestone&gt;&lt;activitypendmilestonescope&gt;0&lt;/activitypendmilestonescope&gt;&lt;activitydonemilestone&gt;&lt;/activitydonemilestone&gt;&lt;activitydonemilestonescope&gt;0&lt;/activitydonemilestonescope&gt;&lt;nodependevent /&gt;&lt;nodependeventscope&gt;0&lt;/nodependeventscope&gt;&lt;nodedoneevent /&gt;&lt;nodedoneeventscope&gt;0&lt;/nodedoneeventscope&gt;&lt;titleposno&gt;5&lt;/titleposno&gt;&lt;embeddedproccount&gt;0&lt;/embeddedproccount&gt;&lt;iscustomnode&gt;0&lt;/iscustomnode&gt;&lt;designtimesettings&gt;&amp;lt;designtimesettings&amp;gt;&amp;lt;xposition&amp;gt;400&amp;lt;/xposition&amp;gt;&amp;lt;yposition&amp;gt;250&amp;lt;/yposition&amp;gt;&amp;lt;width&amp;gt;30&amp;lt;/width&amp;gt;&amp;lt;height&amp;gt;30&amp;lt;/height&amp;gt;&amp;lt;inheritcolorfromsystem&amp;gt;True&amp;lt;/inheritcolorfromsystem&amp;gt;&amp;lt;colour&amp;gt;#FF9B0000&amp;lt;/colour&amp;gt;&amp;lt;eventtype&amp;gt;Default&amp;lt;/eventtype&amp;gt;&amp;lt;name&amp;gt;End&amp;lt;/name&amp;gt;&amp;lt;textposition&amp;gt;Top&amp;lt;/textposition&amp;gt;&amp;lt;conditionpathdescription /&amp;gt;&amp;lt;lane&amp;gt;&amp;lt;name /&amp;gt;&amp;lt;index&amp;gt;0&amp;lt;/index&amp;gt;&amp;lt;poolid /&amp;gt;&amp;lt;height&amp;gt;0&amp;lt;/height&amp;gt;&amp;lt;/lane&amp;gt;&amp;lt;annotations /&amp;gt;&amp;lt;attachments /&amp;gt;&amp;lt;/designtimesettings&amp;gt;&lt;/designtimesettings&gt;&lt;attachments&gt;&lt;/attachments&gt;&lt;annotations&gt;&lt;/annotations&gt;&lt;dependants /&gt;&lt;destinationnodes /&gt;&lt;originnodes&gt;&lt;originnode&gt;&lt;nodeid&gt;1&lt;/nodeid&gt;&lt;nodetype&gt;6&lt;/nodetype&gt;&lt;/originnode&gt;&lt;/originnodes&gt;&lt;branchingrules /&gt;&lt;runtimesettings&gt;0&lt;/runtimesettings&gt;&lt;/nodedata&gt;&lt;/node&gt;&lt;/nodelist&gt;&lt;documentprocessrulecollection /&gt;&lt;/processmap&gt;&lt;/processmaps&gt;</Xml>
-            <FileName>3ED872430D2C1F299F96199716FE964E_V3.xml</FileName>
-            <Process>
-              <Id>3ED872430D2C1F299F96199716FE964E</Id>
-              <AutomaticallyPopulate>true</AutomaticallyPopulate>
-              <Version>3</Version>
-              <Name>TestSavedFrag</Name>
-            </Process>
-            <ProcessType>CaseFragment</ProcessType>
-            <Assets />
-          </ExportedProcess>
-        </Processes>
-        <Skins />
-        <WorkAllocationRules />
-        <JobSchedules />
-        <DotNetAssemblies />
-        <DocumentTemplates />
-        <ThreadPools>
-          <ThreadPool>
-            <Identity>
-              <Id>0</Id>
-              <Name>Default Thread Pool</Name>
-            </Identity>
-            <Size>16</Size>
-            <Max>0</Max>
-            <Min>0</Min>
-            <Urgency>1</Urgency>
-            <ThreadPoolType>0</ThreadPoolType>
-          </ThreadPool>
-        </ThreadPools>
-        <TaggedItems />
-        <Languages />
-        <DotNetReferences />
-        <WebServices />
-        <ServerXmlExpressionVariables />
-        <ServerVariables />
-        <Images />
-        <ProcessIdentities />
-        <FormIdentities />
-        <FormTemplateIdentities />
-        <ImagePathCollection />
-        <CaptureProjectDataCollection />
-        <Queries />
-        <FormInfoXml />
-        <NoteTypes />
-        <MiscellaneousFiles />
-        <HotKeyMappings />
-        <Packages />
-        <DocumentTypeVariantCollection />
-        <PageRenditions />
-        <NodeColors />
-        <DeviceOverridableSettings />
-        <ReportingTags />
-        <ExportConnectorDeploymentProperties />
-        <CaptureControlLayouts />
-        <CustomServices />
-        <CustomServiceGroups />
-        <CaptureSolution>
-          <Id />
-          <Name />
-          <Version>0</Version>
-          <Description />
-          <DocumentLanguage />
-          <CategoryIdentity>
-            <Id />
-            <AutomaticallyPopulate>true</AutomaticallyPopulate>
-            <Name />
-          </CategoryIdentity>
-          <LastModified>2021-09-30T00:37:00.3343759+05:30</LastModified>
-          <LockedBy>
-            <Id />
-            <AutomaticallyPopulate>true</AutomaticallyPopulate>
-            <Name />
-            <ResourceType>Worker</ResourceType>
-            <EmailAddress />
-            <UserId />
-            <ManagerialLevel>0</ManagerialLevel>
-          </LockedBy>
-          <ProcessIdentity>
-            <Id />
-            <AutomaticallyPopulate>true</AutomaticallyPopulate>
-            <Version>0</Version>
-            <Name />
-          </ProcessIdentity>
-          <ClassificationGroupIdentity>
-            <Id />
-            <AutomaticallyPopulate>true</AutomaticallyPopulate>
-            <Version>0</Version>
-            <Name />
-          </ClassificationGroupIdentity>
-          <GenerateMFPForms>false</GenerateMFPForms>
-          <ScanCNJFormLink />
-          <ExpectedSolutionDuration>0</ExpectedSolutionDuration>
-          <UploadedDocsFolderId />
-          <DownloadImagesAndData>false</DownloadImagesAndData>
-          <DeleteDocumentsWhenJobComplete>false</DeleteDocumentsWhenJobComplete>
-          <TrainingRequired>false</TrainingRequired>
-          <DownloadZipResources />
-          <SeparationProfileIdentity />
-        </CaptureSolution>
-        <ImportConnections />
-        <ImportSources />
-        <OAuthServers />
-        <QuickApp>
-          <Id />
-          <Name />
-          <Version>0</Version>
-          <Description />
-          <AssociatedProcess>
-            <Variables />
-            <Data>
-              <Identity>
-                <Id>F89C0CB6CD1243A386D285699969E97F</Id>
-                <AutomaticallyPopulate>false</AutomaticallyPopulate>
-                <Version>0</Version>
-                <Name />
-              </Identity>
-              <CreationDate>0001-01-01T00:00:00</CreationDate>
-              <Author>
-                <Id />
-                <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                <Name />
-                <ResourceType>Worker</ResourceType>
-                <EmailAddress />
-                <UserId />
-                <ManagerialLevel>0</ManagerialLevel>
-              </Author>
-              <Category>
-                <Id />
-                <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                <Name />
-              </Category>
-              <LastModifiedBy>
-                <Id />
-                <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                <Name />
-                <ResourceType>Worker</ResourceType>
-                <EmailAddress />
-                <UserId />
-                <ManagerialLevel>0</ManagerialLevel>
-              </LastModifiedBy>
-              <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
-              <OriginalLastModifiedOn>2021-09-30T00:37:00.3343759+05:30</OriginalLastModifiedOn>
-              <ThreadPool>
-                <Id>0</Id>
-              </ThreadPool>
-              <ExpectedDuration>
-                <Days>0</Days>
-                <Hours>0</Hours>
-                <Minutes>0</Minutes>
-                <Seconds>0</Seconds>
-                <UseNegative>false</UseNegative>
-                <Negative>false</Negative>
-                <ShowSeconds>true</ShowSeconds>
-                <DurationType>Time</DurationType>
-              </ExpectedDuration>
-              <Rag />
-              <Color>0</Color>
-              <ResourceAccessTokens />
-              <DefaultUsableResources />
-              <Exceptions />
-              <ExpectedCost>0</ExpectedCost>
-              <Priority>0</Priority>
-              <AllocationAlgorithm>0</AllocationAlgorithm>
-              <Synchronous>false</Synchronous>
-              <Transactional>false</Transactional>
-              <RecordHistory>false</RecordHistory>
-              <TrackVariableChanges>false</TrackVariableChanges>
-              <Status>Saved</Status>
-              <WorkQueueDefinition>
-                <Identity>
-                  <Id />
-                  <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                  <Name />
-                  <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
-                </Identity>
-                <Id />
-                <Name />
-                <Fields />
-                <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
-              </WorkQueueDefinition>
-              <InputVariables />
-              <OutputVariables />
-              <States />
-              <ArrowType>0</ArrowType>
-              <ArrowWeight>0</ArrowWeight>
-              <LayoutDirection>Horizontal</LayoutDirection>
-              <Layout>ProcessTree</Layout>
-              <ZoomFactor>0</ZoomFactor>
-              <ViewActivityCost>false</ViewActivityCost>
-              <ViewActivityDuration>false</ViewActivityDuration>
-              <ViewActivityResources>false</ViewActivityResources>
-              <ViewPools>false</ViewPools>
-              <CompatibleWithAllCaseVersions>false</CompatibleWithAllCaseVersions>
-              <ViewGroups>false</ViewGroups>
-              <CurrentVersion>0</CurrentVersion>
-              <Budget>
-                <Value>0</Value>
-              </Budget>
-              <Milestones />
-              <IgnoreDuplicateNameCheck>false</IgnoreDuplicateNameCheck>
-              <IsDuplicateName>false</IsDuplicateName>
-              <Roles />
-              <HasFloatingRoles>false</HasFloatingRoles>
-              <Groupings />
-              <UseVariablePrefix>false</UseVariablePrefix>
-              <HasMilestoneTriggers>false</HasMilestoneTriggers>
-              <HasBudgetTriggers>false</HasBudgetTriggers>
-              <HasDurationTriggers>false</HasDurationTriggers>
-              <Events />
-              <VirtualFolder>
-                <VirtualFolderFields />
-              </VirtualFolder>
-              <Triggers />
-              <Overwrite>false</Overwrite>
-              <Notes />
-              <IsHighestVersion>false</IsHighestVersion>
-              <IsBeingImportedFromExtendedProcessDefinitionLanguage>false</IsBeingImportedFromExtendedProcessDefinitionLanguage>
-              <ValidFrom xsi:nil="true" />
-              <ValidTo xsi:nil="true" />
-              <SupportsSkinning>false</SupportsSkinning>
-              <CaptureEnabled>false</CaptureEnabled>
-              <IsCaptureProcess>false</IsCaptureProcess>
-              <UpdateProcessIntelligence>false</UpdateProcessIntelligence>
-              <SkinVariables />
-              <AssociatedCase>
-                <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                <CaseReference />
-                <CaseId />
-                <Version>0</Version>
-                <BusinessProcessSettingsXmlString />
-              </AssociatedCase>
-              <CaseCompletion>
-                <CompleteAction>Leave</CompleteAction>
-              </CaseCompletion>
-              <InitializationVariables />
-              <Annotations />
-              <Attachments />
-              <GroupArtifacts />
-              <CollaborationNodes />
-              <Pools />
-              <MessageFlows />
-              <ArchiveFinishedJobs>true</ArchiveFinishedJobs>
-              <HasMilestones>false</HasMilestones>
-              <IsImport>false</IsImport>
-              <Redraw>false</Redraw>
-              <HasDocumentContainer>false</HasDocumentContainer>
-              <HasDocumentSet>false</HasDocumentSet>
-              <TestPlan />
-              <ProcessSummary>
-                <Identity>
-                  <Id>F89C0CB6CD1243A386D285699969E97F</Id>
-                  <AutomaticallyPopulate>false</AutomaticallyPopulate>
-                  <Version>0</Version>
-                  <Name />
-                </Identity>
-                <ExpectedDuration>
-                  <Days>0</Days>
-                  <Hours>0</Hours>
-                  <Minutes>0</Minutes>
-                  <Seconds>0</Seconds>
-                  <UseNegative>false</UseNegative>
-                  <Negative>false</Negative>
-                  <ShowSeconds>true</ShowSeconds>
-                  <DurationType>Time</DurationType>
-                </ExpectedDuration>
-                <ExpectedCost>0</ExpectedCost>
-                <Synchronous>false</Synchronous>
-                <IsIntegrationServerMode>false</IsIntegrationServerMode>
-                <Category>
-                  <Id />
-                  <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                  <Name />
-                </Category>
-                <AssociatedCase>
-                  <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                  <CaseReference />
-                  <CaseId />
-                  <Version>0</Version>
-                  <BusinessProcessSettingsXmlString />
-                </AssociatedCase>
-                <ArchiveFinishedJob>0</ArchiveFinishedJob>
-                <Budget>
-                  <Value>0</Value>
-                </Budget>
-                <Priority>0</Priority>
-                <WorkQueueDefinition>
-                  <Id />
-                  <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                  <Name />
-                  <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
-                </WorkQueueDefinition>
-                <LatestVersion>false</LatestVersion>
-                <Status>Saved</Status>
-                <SupportsSkinning>false</SupportsSkinning>
-                <LastModified>
-                  <Id />
-                  <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                  <Name />
-                  <ResourceType>Worker</ResourceType>
-                  <EmailAddress />
-                  <UserId />
-                  <ManagerialLevel>0</ManagerialLevel>
-                </LastModified>
-                <Author>
-                  <Id />
-                  <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                  <Name />
-                  <ResourceType>Worker</ResourceType>
-                  <EmailAddress />
-                  <UserId />
-                  <ManagerialLevel>0</ManagerialLevel>
-                </Author>
-                <ProcessType>BusinessProcess</ProcessType>
-                <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
-                <CaptureEnabled>false</CaptureEnabled>
-                <AllocationAlgorithm>0</AllocationAlgorithm>
-                <ArrowType>0</ArrowType>
-                <ArrowWeight>0</ArrowWeight>
-                <Transactional>false</Transactional>
-                <Color>0</Color>
-                <CreationDate>0001-01-01T00:00:00</CreationDate>
-                <UseVariablePrefix>false</UseVariablePrefix>
-                <HasDocumentContainer>false</HasDocumentContainer>
-                <HasDocumentSet>false</HasDocumentSet>
-                <Scope>Process</Scope>
-                <SourceControlStatus>NotInSourceControl</SourceControlStatus>
-              </ProcessSummary>
-              <Settings>
-                <CaptureProcessSettings>
-                  <ClassificationGroup>
-                    <Id />
-                    <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                    <Version>0</Version>
-                    <Name />
-                  </ClassificationGroup>
-                  <ScanVrsProfiles />
-                  <SeparationProfile />
-                  <DefaultScanVrsProfile />
-                  <DocConversionProfiles />
-                  <DefaultDocConversionProfile />
-                  <SaveScannedImageAsPageRendition>false</SaveScannedImageAsPageRendition>
-                  <PageRendition>0</PageRendition>
-                  <PdfTextExtractionMode>0</PdfTextExtractionMode>
-                  <AllowRotateReorderImportedImages>true</AllowRotateReorderImportedImages>
-                  <AllowSplitMergeDeleteImportedDocument>true</AllowSplitMergeDeleteImportedDocument>
-                  <PdfTextWordSeparationChars>/:()-#</PdfTextWordSeparationChars>
-                </CaptureProcessSettings>
-                <MaximumLoopCount>0</MaximumLoopCount>
-                <ShowSpecificOutputVariables>false</ShowSpecificOutputVariables>
-                <VariableDisplayPropertiesCollection />
-              </Settings>
-              <ClassificationGroup>
-                <Id />
-                <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                <Version>0</Version>
-                <Name />
-              </ClassificationGroup>
-              <IsExport>false</IsExport>
-              <SimulationId />
-              <SimulationInitNodeWorkload>false</SimulationInitNodeWorkload>
-              <SimulationUseBusCal>false</SimulationUseBusCal>
-              <AssociatedDotNetReferences />
-              <ExpectedDurationFromSim>0</ExpectedDurationFromSim>
-              <SimulationTime>2021-09-30T00:37:00.3343759+05:30</SimulationTime>
-              <DocumentProcessRules />
-              <IsProcessUsedInEmbeddedOrSubJob>false</IsProcessUsedInEmbeddedOrSubJob>
-              <IncludeInAnalytics>false</IncludeInAnalytics>
-              <ProcessDataModels />
-              <BusinessData />
-            </Data>
-            <Nodes />
-            <AssociatedBusinessRule>
-              <AutomaticallyPopulate>true</AutomaticallyPopulate>
-              <Id />
-              <Name />
-              <Version>0</Version>
-              <ProcessId />
-            </AssociatedBusinessRule>
-            <ProcessSummary>
-              <Identity>
-                <Id>F89C0CB6CD1243A386D285699969E97F</Id>
-                <AutomaticallyPopulate>false</AutomaticallyPopulate>
-                <Version>0</Version>
-                <Name />
-              </Identity>
-              <ExpectedDuration>
-                <Days>0</Days>
-                <Hours>0</Hours>
-                <Minutes>0</Minutes>
-                <Seconds>0</Seconds>
-                <UseNegative>false</UseNegative>
-                <Negative>false</Negative>
-                <ShowSeconds>true</ShowSeconds>
-                <DurationType>Time</DurationType>
-              </ExpectedDuration>
-              <ExpectedCost>0</ExpectedCost>
-              <Synchronous>false</Synchronous>
-              <IsIntegrationServerMode>false</IsIntegrationServerMode>
-              <Category>
-                <Id />
-                <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                <Name />
-              </Category>
-              <AssociatedCase>
-                <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                <CaseReference />
-                <CaseId />
-                <Version>0</Version>
-                <BusinessProcessSettingsXmlString />
-              </AssociatedCase>
-              <ArchiveFinishedJob>0</ArchiveFinishedJob>
-              <Budget>
-                <Value>0</Value>
-              </Budget>
-              <Priority>0</Priority>
-              <WorkQueueDefinition>
-                <Id />
-                <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                <Name />
-                <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
-              </WorkQueueDefinition>
-              <LatestVersion>false</LatestVersion>
-              <Status>Saved</Status>
-              <SupportsSkinning>false</SupportsSkinning>
-              <LastModified>
-                <Id />
-                <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                <Name />
-                <ResourceType>Worker</ResourceType>
-                <EmailAddress />
-                <UserId />
-                <ManagerialLevel>0</ManagerialLevel>
-              </LastModified>
-              <Author>
-                <Id />
-                <AutomaticallyPopulate>true</AutomaticallyPopulate>
-                <Name />
-                <ResourceType>Worker</ResourceType>
-                <EmailAddress />
-                <UserId />
-                <ManagerialLevel>0</ManagerialLevel>
-              </Author>
-              <ProcessType>BusinessProcess</ProcessType>
-              <LastModifiedDate>0001-01-01T00:00:00</LastModifiedDate>
-              <CaptureEnabled>false</CaptureEnabled>
-              <AllocationAlgorithm>0</AllocationAlgorithm>
-              <ArrowType>0</ArrowType>
-              <ArrowWeight>0</ArrowWeight>
-              <Transactional>false</Transactional>
-              <Color>0</Color>
-              <CreationDate>0001-01-01T00:00:00</CreationDate>
-              <UseVariablePrefix>false</UseVariablePrefix>
-              <HasDocumentContainer>false</HasDocumentContainer>
-              <HasDocumentSet>false</HasDocumentSet>
-              <Scope>Process</Scope>
-              <SourceControlStatus>NotInSourceControl</SourceControlStatus>
-            </ProcessSummary>
-            <IgnoreSourceControlItemCheckOutWarning>false</IgnoreSourceControlItemCheckOutWarning>
-          </AssociatedProcess>
-          <DesignSettings>
-            <KeyDataFields />
-            <AlwaysGenerateCNJForm>false</AlwaysGenerateCNJForm>
-            <MaintenanceAccessResources />
-          </DesignSettings>
-          <CategoryIdentity>
-            <Id />
-            <AutomaticallyPopulate>true</AutomaticallyPopulate>
-            <Name />
-          </CategoryIdentity>
-          <WorkQueueQueryId />
-          <JobQueryId />
-          <LandingPageId />
-          <LastModified>2021-09-30T00:37:00.3343759+05:30</LastModified>
-          <LockedBy>
-            <Id />
-            <AutomaticallyPopulate>true</AutomaticallyPopulate>
-            <Name />
-            <ResourceType>Worker</ResourceType>
-            <EmailAddress />
-            <UserId />
-            <ManagerialLevel>0</ManagerialLevel>
-          </LockedBy>
-          <PackageId />
-          <ExpectedSolutionDuration>0</ExpectedSolutionDuration>
-          <AssociatedItems />
-        </QuickApp>
-        <TextCodes />
-      </SpaPackageExportHelper>
-      <ProcessType>CaseFragment</ProcessType>
+      <IsSpaExport>false</IsSpaExport>
+      <ProcessType>BusinessProcess</ProcessType>
       <ProtectedItems />
       <ExportPageRenditions>false</ExportPageRenditions>
       <ExportReportingTags>false</ExportReportingTags>
       <ExportTestPlans>false</ExportTestPlans>
-      <IncludeProcessAssociationsInPackage>true</IncludeProcessAssociationsInPackage>
-      <IsGitExport>true</IsGitExport>
+      <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
+      <IsGitExport>false</IsGitExport>
     </ProcessExportOption>
     <WorkAllocationRules />
     <Skins />
@@ -855,7 +145,13 @@
     <Entities />
     <WorkTypes />
     <Checklists />
-    <DataModels />
+    <DataModels>
+      <DataModelIdentity>
+        <Id>A56EB4A28B6258122BA66C88C3D917AE</Id>
+        <Version>4</Version>
+        <Name>TestSavedDatamodel</Name>
+      </DataModelIdentity>
+    </DataModels>
     <Folders>
       <FolderTypeIdentity>
         <Id>699417D9A4BD68B21C1E992D1F030B88</Id>
@@ -930,6 +226,7 @@
       <Name />
       <Version>0</Version>
     </QuickApp>
+    <GitFolderName>qwerty</GitFolderName>
     <PackageItemAssociations>
       <PackageItemAssociation>
         <Id>62E18169A4724202B42EBF7C3FDAF9E9</Id>
@@ -979,6 +276,18 @@
             <Id>699417D9A4BD68B21C1E992D1F030B88</Id>
             <ItemType>19</ItemType>
             <Name>TestSavedFldr</Name>
+          </AssociatedItem>
+        </AssociatedItems>
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>A56EB4A28B6258122BA66C88C3D917AE</Id>
+        <Name />
+        <ItemType>44</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>62E18169A4724202B42EBF7C3FDAF9E9</Id>
+            <ItemType>28</ItemType>
+            <Name>GIT DATA</Name>
           </AssociatedItem>
         </AssociatedItems>
       </PackageItemAssociation>
