@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-16"?>
+<FolderType xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>699417D9A4BD68B21C1E992D1F030B88</Id>
+    <AutomaticallyPopulate>false</AutomaticallyPopulate>
+    <Version>2</Version>
+    <Name>TestSavedFldr</Name>
+  </Identity>
+  <Name>TestSavedFldr</Name>
+  <Description />
+  <Status>Released</Status>
+  <Category>
+    <Id>62E18169A4724202B42EBF7C3FDAF9E9</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>GIT DATA</Name>
+  </Category>
+  <LastModifiedDate>2021-09-29T14:58:48.453</LastModifiedDate>
+  <LastModifiedUser>
+    <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedBy>
+    <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Sunanda.Varma</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
+  <FieldGroups />
+  <FieldValidators />
+  <FolderValidatorCollection />
+  <ChildFolderTypes />
+  <NameTemplate>[FolderType]</NameTemplate>
+  <ProcessSubfoldersForValidation>false</ProcessSubfoldersForValidation>
+  <Forms />
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <ResourcePermissionType>FullControl</ResourcePermissionType>
+</FolderType>

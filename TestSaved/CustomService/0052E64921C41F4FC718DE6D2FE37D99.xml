@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CustomService xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>0052E64921C41F4FC718DE6D2FE37D99</Id>
+    <Name>TestSavedCustService</Name>
+    <Version>2</Version>
+    <Group>
+      <Id>7443888CEA544ACCBD89ABBFC6A30658</Id>
+      <Name>GITCSG</Name>
+    </Group>
+  </Identity>
+  <Category>
+    <Id>62E18169A4724202B42EBF7C3FDAF9E9</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+  </Category>
+  <Data>
+    <Owner />
+    <Inputs />
+    <Outputs />
+  </Data>
+  <LastModifiedDate>2021-09-29T14:55:40.003</LastModifiedDate>
+  <LastModifiedBy>
+    <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedBy>
+</CustomService>
