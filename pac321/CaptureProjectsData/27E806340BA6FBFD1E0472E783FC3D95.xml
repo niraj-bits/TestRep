@@ -2,7 +2,7 @@
 <ProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Identity>
     <Id>27E806340BA6FBFD1E0472E783FC3D95</Id>
-    <Version>1</Version>
+    <Version>2</Version>
     <Name>grp321</Name>
   </Identity>
   <Category>
@@ -11,9 +11,9 @@
     <Name>GIT DATA</Name>
   </Category>
   <Name>grp321</Name>
-  <Description />
+  <Description>abc121212</Description>
   <Status>Released</Status>
-  <LastModifiedProjectFile>2021-09-30T17:54:51.653</LastModifiedProjectFile>
+  <LastModifiedProjectFile>2021-10-01T21:59:17.377</LastModifiedProjectFile>
   <LastModifiedProjectFolderZip>0001-01-01T00:00:00</LastModifiedProjectFolderZip>
   <LastModifiedUser>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>

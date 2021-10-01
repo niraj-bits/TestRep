@@ -3,11 +3,11 @@
   <Identity>
     <Id>27E806340BA6FBFD1E0472E783FC3D95</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
-    <Version>1</Version>
+    <Version>2</Version>
     <Name>grp321</Name>
   </Identity>
   <Name>grp321</Name>
-  <Description />
+  <Description>abc121212</Description>
   <Status>Released</Status>
   <IsShared>false</IsShared>
   <Category>
@@ -19,7 +19,7 @@
     <DocumentType>
       <Identity>
         <Id>0EA150FA901A043A47ADAA7A197DEB50</Id>
-        <Version>1</Version>
+        <Version>2</Version>
         <Name />
       </Identity>
       <Name />
@@ -56,7 +56,28 @@
       <NameTemplate>[DocumentType]</NameTemplate>
       <OnlineLearningFolderId />
       <AutomaticOnlineLearningEnabled>false</AutomaticOnlineLearningEnabled>
-      <Forms />
+      <Forms>
+        <ScanForm>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+        </ScanForm>
+        <ValidationForm>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+        </ValidationForm>
+        <VerificationForm>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+        </VerificationForm>
+        <DocumentReviewForm>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+        </DocumentReviewForm>
+      </Forms>
       <AvailableForManualClassification>true</AvailableForManualClassification>
       <TableFieldExportDelimiter>;</TableFieldExportDelimiter>
       <TemplateImage>
@@ -80,10 +101,11 @@
       <IsPartial>false</IsPartial>
     </DocumentType>
   </DocumentTypes>
-  <LastModifiedDate>2021-09-30T17:54:51.653</LastModifiedDate>
+  <LastModifiedDate>2021-10-01T21:59:17.377</LastModifiedDate>
   <LastModifiedUser>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Sunanda.Varma</Name>
     <ResourceType>Worker</ResourceType>
     <EmailAddress />
     <UserId />
@@ -101,7 +123,7 @@
   <LockedByModule>TotalAgilityDesigner</LockedByModule>
   <RootDocumentType>
     <Id>0EA150FA901A043A47ADAA7A197DEB50</Id>
-    <Version>1</Version>
+    <Version>2</Version>
     <Name />
   </RootDocumentType>
   <IsOnlineLearningEnabled>false</IsOnlineLearningEnabled>
