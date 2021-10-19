@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DocumentGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>CFA124F2DFD64234ADA4A48B9997CE19</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Version>2</Version>
+    <Name>eg123</Name>
+  </Identity>
+  <Name>eg123</Name>
+  <Description>desc</Description>
+  <Status>Released</Status>
+  <IsShared>false</IsShared>
+  <Category>
+    <Id>62E18169A4724202B42EBF7C3FDAF9E9</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>GIT DATA</Name>
+  </Category>
+  <DocumentTypes>
+    <DocumentType>
+      <Identity>
+        <Id>82E27E591A875B5292AE544D256C8DD0</Id>
+        <Version>2</Version>
+        <Name />
+      </Identity>
+      <Name />
+      <Description />
+      <Status>Released</Status>
+      <FieldGroups />
+      <FieldValidators />
+      <DocumentTypeValidator>
+        <Identity>
+          <Id />
+          <Name />
+        </Identity>
+        <DocumentStandardValidator>
+          <Identity>
+            <Id />
+            <Name />
+          </Identity>
+          <FailureMessage />
+          <NumberOfPages>1</NumberOfPages>
+          <PageCountLevel>Exactly</PageCountLevel>
+        </DocumentStandardValidator>
+        <DocumentValidators />
+      </DocumentTypeValidator>
+      <HasStandardValidator>false</HasStandardValidator>
+      <PdfSettings>
+        <Title />
+        <SkipFirstPage>false</SkipFirstPage>
+        <Subject />
+        <Author />
+        <Keywords />
+        <Application />
+        <Producer />
+      </PdfSettings>
+      <NameTemplate>[DocumentType]</NameTemplate>
+      <OnlineLearningFolderId />
+      <AutomaticOnlineLearningEnabled>false</AutomaticOnlineLearningEnabled>
+      <Forms />
+      <AvailableForManualClassification>true</AvailableForManualClassification>
+      <TableFieldExportDelimiter>;</TableFieldExportDelimiter>
+      <TemplateImage>
+        <Id />
+        <Name />
+        <AssetType>Image</AssetType>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <StorageId>0</StorageId>
+      </TemplateImage>
+      <IsTemplateImageOverriden>false</IsTemplateImageOverriden>
+      <MonitorForClassificationOnlineLearning>false</MonitorForClassificationOnlineLearning>
+      <PostValidationHandler>
+        <IsPostValidationHandlingEnabled>false</IsPostValidationHandlingEnabled>
+        <ProcessIdentity>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+          <Name />
+        </ProcessIdentity>
+      </PostValidationHandler>
+      <IsPartial>false</IsPartial>
+    </DocumentType>
+  </DocumentTypes>
+  <LastModifiedDate>2021-09-27T10:59:20.073</LastModifiedDate>
+  <LastModifiedUser>
+    <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedBy>
+    <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Sunanda.Varma</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
+  <RootDocumentType>
+    <Id>82E27E591A875B5292AE544D256C8DD0</Id>
+    <Version>2</Version>
+    <Name />
+  </RootDocumentType>
+  <IsOnlineLearningEnabled>false</IsOnlineLearningEnabled>
+  <OnlineLearningSettings>
+    <OnlineLearningMaxNewSamples>2000</OnlineLearningMaxNewSamples>
+    <IsAutomaticOnlineLearningEnabled>false</IsAutomaticOnlineLearningEnabled>
+    <OnlineLearningFolderId />
+  </OnlineLearningSettings>
+  <FuzzyDatabases />
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <ResourcePermissionType>FullControl</ResourcePermissionType>
+</DocumentGroup>
