@@ -3,7 +3,7 @@
   <SpaPackageIdentity>
     <Id>864B9DFB138043EEB341295EF69A4C5B</Id>
     <Name>lifebillionPackage</Name>
-    <Version>4</Version>
+    <Version>7</Version>
   </SpaPackageIdentity>
   <Description />
   <CategoryIdentity>
@@ -11,7 +11,7 @@
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Name>Default Category</Name>
   </CategoryIdentity>
-  <LastModifiedDateTime>2021-11-03T13:30:52.933</LastModifiedDateTime>
+  <LastModifiedDateTime>2021-11-03T17:02:58.167</LastModifiedDateTime>
   <LastModifiedResource>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
@@ -32,7 +32,7 @@
       <GeneralizedExport>false</GeneralizedExport>
       <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
       <ExportCaseFragments>false</ExportCaseFragments>
-      <ExportTemplateSkins>true</ExportTemplateSkins>
+      <ExportTemplateSkins>false</ExportTemplateSkins>
       <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
       <ExportGlobalDataModels>false</ExportGlobalDataModels>
       <ExportProcessDataModels>false</ExportProcessDataModels>
@@ -62,7 +62,7 @@
       <ExportReportingTags>false</ExportReportingTags>
       <ExportTestPlans>false</ExportTestPlans>
       <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
-      <IsGitExport>true</IsGitExport>
+      <IsGitExport>false</IsGitExport>
     </ProcessExportOption>
     <WorkAllocationRules />
     <Skins />
@@ -97,7 +97,7 @@
       <DocumentGroupIdentity>
         <Id>FF5E510F58144852B1710175FC4654C5</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>7</Version>
+        <Version>10</Version>
         <Name>Leifbillionproject</Name>
       </DocumentGroupIdentity>
     </ExtractionGroups>
@@ -105,7 +105,7 @@
       <ClassificationGroupIdentity>
         <Id>FF5E510F58144852B1710175FC4654C5</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>7</Version>
+        <Version>10</Version>
         <Name>Leifbillionproject</Name>
       </ClassificationGroupIdentity>
     </ClassificationGroups>
@@ -173,7 +173,7 @@
       <Name />
       <Version>0</Version>
     </QuickApp>
-    <GitFolderName />
+    <GitFolderName>lifebillionPackage</GitFolderName>
     <PackageItemAssociations>
       <PackageItemAssociation>
         <Id>FF5E510F58144852B1710175FC4654C5</Id>
