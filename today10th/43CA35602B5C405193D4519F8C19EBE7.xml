@@ -3,7 +3,7 @@
   <SpaPackageIdentity>
     <Id>43CA35602B5C405193D4519F8C19EBE7</Id>
     <Name>today10th</Name>
-    <Version>1</Version>
+    <Version>2</Version>
   </SpaPackageIdentity>
   <Description />
   <CategoryIdentity>
@@ -11,7 +11,7 @@
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Name>Default Category</Name>
   </CategoryIdentity>
-  <LastModifiedDateTime>2021-11-10T16:17:24.827</LastModifiedDateTime>
+  <LastModifiedDateTime>2021-11-11T12:12:38.627</LastModifiedDateTime>
   <LastModifiedResource>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
@@ -26,7 +26,7 @@
       <ProcessIdentity>
         <Id>D77405033D403021BDF12CCFCC1C3DED</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>1</Version>
+        <Version>2</Version>
         <Name>imp</Name>
       </ProcessIdentity>
     </Processes>
@@ -39,7 +39,7 @@
       <GeneralizedExport>false</GeneralizedExport>
       <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
       <ExportCaseFragments>false</ExportCaseFragments>
-      <ExportTemplateSkins>true</ExportTemplateSkins>
+      <ExportTemplateSkins>false</ExportTemplateSkins>
       <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
       <ExportGlobalDataModels>false</ExportGlobalDataModels>
       <ExportProcessDataModels>false</ExportProcessDataModels>
@@ -69,13 +69,20 @@
       <ExportReportingTags>false</ExportReportingTags>
       <ExportTestPlans>false</ExportTestPlans>
       <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
-      <IsGitExport>true</IsGitExport>
+      <IsGitExport>false</IsGitExport>
     </ProcessExportOption>
     <WorkAllocationRules />
     <Skins />
     <BusinessRules />
     <Assets />
-    <Forms />
+    <Forms>
+      <FormIdentity>
+        <Id>84281907590B49AA8D73B9C36ED75C8B</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>formImp</Name>
+        <Version>2</Version>
+      </FormIdentity>
+    </Forms>
     <FormTemplates />
     <FormExportOptions>
       <ExportHeader>false</ExportHeader>
@@ -207,6 +214,7 @@
       <Name />
       <Version>0</Version>
     </QuickApp>
+    <GitFolderName>today10th</GitFolderName>
     <PackageItemAssociations>
       <PackageItemAssociation>
         <Id>D77405033D403021BDF12CCFCC1C3DED</Id>
@@ -230,6 +238,23 @@
         <Name />
         <ItemType>28</ItemType>
         <AssociatedItems />
+      </PackageItemAssociation>
+      <PackageItemAssociation>
+        <Id>84281907590B49AA8D73B9C36ED75C8B</Id>
+        <Name />
+        <ItemType>6</ItemType>
+        <AssociatedItems>
+          <AssociatedItem>
+            <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+            <ItemType>28</ItemType>
+            <Name>Default Category</Name>
+          </AssociatedItem>
+          <AssociatedItem>
+            <Id>84281907590B49AA8D73B9C36ED75C8B</Id>
+            <ItemType>6</ItemType>
+            <Name>formImp</Name>
+          </AssociatedItem>
+        </AssociatedItems>
       </PackageItemAssociation>
     </PackageItemAssociations>
     <GlobalVariables />
