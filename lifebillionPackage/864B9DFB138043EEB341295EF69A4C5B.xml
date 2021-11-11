@@ -11,7 +11,7 @@
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Name>Default Category</Name>
   </CategoryIdentity>
-  <LastModifiedDateTime>2021-11-11T17:27:09.977</LastModifiedDateTime>
+  <LastModifiedDateTime>2021-11-11T17:40:30.397</LastModifiedDateTime>
   <LastModifiedResource>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
@@ -138,7 +138,7 @@
       <DocumentGroupIdentity>
         <Id>FF5E510F58144852B1710175FC4654C5</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>-1</Version>
+        <Version>7</Version>
         <Name>Leifbillionproject</Name>
       </DocumentGroupIdentity>
     </ExtractionGroups>
