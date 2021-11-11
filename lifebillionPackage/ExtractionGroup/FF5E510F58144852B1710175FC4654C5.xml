@@ -177,12 +177,22 @@
   <LastModifiedUser>
     <Id>ECC398BCAD4F4D9388E9B33B5A6C0EF7</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
     <ResourceType>Worker</ResourceType>
     <EmailAddress />
     <UserId />
     <ManagerialLevel>0</ManagerialLevel>
   </LastModifiedUser>
-  <LockedByModule>None</LockedByModule>
+  <LockedBy>
+    <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Sunanda.Varma</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
   <RootDocumentType>
     <Id>C6D296FE19E6431A898D7CFCFB85CBEC</Id>
     <Version>7</Version>
