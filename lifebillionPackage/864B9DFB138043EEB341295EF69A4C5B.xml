@@ -3,7 +3,7 @@
   <SpaPackageIdentity>
     <Id>864B9DFB138043EEB341295EF69A4C5B</Id>
     <Name>lifebillionPackage</Name>
-    <Version>5</Version>
+    <Version>6</Version>
   </SpaPackageIdentity>
   <Description />
   <CategoryIdentity>
@@ -11,7 +11,7 @@
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Name>Default Category</Name>
   </CategoryIdentity>
-  <LastModifiedDateTime>2021-11-11T17:40:30.397</LastModifiedDateTime>
+  <LastModifiedDateTime>2021-11-03T14:23:27.76</LastModifiedDateTime>
   <LastModifiedResource>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
@@ -32,7 +32,7 @@
       <GeneralizedExport>false</GeneralizedExport>
       <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
       <ExportCaseFragments>false</ExportCaseFragments>
-      <ExportTemplateSkins>true</ExportTemplateSkins>
+      <ExportTemplateSkins>false</ExportTemplateSkins>
       <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
       <ExportGlobalDataModels>false</ExportGlobalDataModels>
       <ExportProcessDataModels>false</ExportProcessDataModels>
@@ -62,7 +62,7 @@
       <ExportReportingTags>false</ExportReportingTags>
       <ExportTestPlans>false</ExportTestPlans>
       <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
-      <IsGitExport>true</IsGitExport>
+      <IsGitExport>false</IsGitExport>
     </ProcessExportOption>
     <WorkAllocationRules />
     <Skins />
@@ -79,47 +79,6 @@
       <ExportSecurityTokens>false</ExportSecurityTokens>
       <ExportSecurityRoles>false</ExportSecurityRoles>
       <ExportRoleMembers>false</ExportRoleMembers>
-      <ProcessExportOptions>
-        <ExportResources>false</ExportResources>
-        <ExportGroupResourceMembers>false</ExportGroupResourceMembers>
-        <ExportResourcesExtensions>false</ExportResourcesExtensions>
-        <ExportCategories>false</ExportCategories>
-        <WithCategoryParentage>false</WithCategoryParentage>
-        <GeneralizedExport>false</GeneralizedExport>
-        <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
-        <ExportCaseFragments>false</ExportCaseFragments>
-        <ExportTemplateSkins>false</ExportTemplateSkins>
-        <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
-        <ExportGlobalDataModels>false</ExportGlobalDataModels>
-        <ExportProcessDataModels>false</ExportProcessDataModels>
-        <ExportType>CombineAssociatedMaps</ExportType>
-        <Version>0</Version>
-        <ExportServerVariables>true</ExportServerVariables>
-        <XmlExpressionVariables />
-        <PreloadScript>1</PreloadScript>
-        <SleepDuration>0</SleepDuration>
-        <CategoryIds />
-        <ProcessDocument>false</ProcessDocument>
-        <ProcessViewer>false</ProcessViewer>
-        <DotNetActivityType>0</DotNetActivityType>
-        <Projects />
-        <AllProcessVariables />
-        <ExportOnlyDocumentGroupIdentityDetails>false</ExportOnlyDocumentGroupIdentityDetails>
-        <SiteDetailsRequired>false</SiteDetailsRequired>
-        <CmisSiteDetailsRequired>false</CmisSiteDetailsRequired>
-        <DocumentTemplates />
-        <Assets />
-        <PerceptiveSiteDetailsRequired>false</PerceptiveSiteDetailsRequired>
-        <IncludeExportConnectorMappings>false</IncludeExportConnectorMappings>
-        <IsSpaExport>false</IsSpaExport>
-        <ProcessType>BusinessProcess</ProcessType>
-        <ProtectedItems />
-        <ExportPageRenditions>false</ExportPageRenditions>
-        <ExportReportingTags>false</ExportReportingTags>
-        <ExportTestPlans>false</ExportTestPlans>
-        <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
-        <IsGitExport>false</IsGitExport>
-      </ProcessExportOptions>
       <IsSpaExport>false</IsSpaExport>
       <ProtectedItems />
     </FormExportOptions>
@@ -138,7 +97,7 @@
       <DocumentGroupIdentity>
         <Id>FF5E510F58144852B1710175FC4654C5</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>7</Version>
+        <Version>-1</Version>
         <Name>Leifbillionproject</Name>
       </DocumentGroupIdentity>
     </ExtractionGroups>
@@ -146,7 +105,7 @@
       <ClassificationGroupIdentity>
         <Id>FF5E510F58144852B1710175FC4654C5</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>7</Version>
+        <Version>8</Version>
         <Name>Leifbillionproject</Name>
       </ClassificationGroupIdentity>
     </ClassificationGroups>
@@ -214,7 +173,7 @@
       <Name />
       <Version>0</Version>
     </QuickApp>
-    <GitFolderName />
+    <GitFolderName>lifebillionPackage</GitFolderName>
     <PackageItemAssociations>
       <PackageItemAssociation>
         <Id>FF5E510F58144852B1710175FC4654C5</Id>
