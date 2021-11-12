@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BusinessRule xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Id>0A4A56C650EB491582B44A635B3DEB4A</Id>
+    <Name>testbr</Name>
+    <Version>3</Version>
+    <ProcessId />
+  </Identity>
+  <LatestVersion>false</LatestVersion>
+  <Version>3</Version>
+  <ProcessIdentity>
+    <Id>A19A45245318B428C7D08012D31B2AB2</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Version>3</Version>
+    <Name>testbr</Name>
+  </ProcessIdentity>
+  <RuleType>Process</RuleType>
+  <CategoryIdentity>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+  </CategoryIdentity>
+  <LastModifiedUserName>Sunanda.Varma</LastModifiedUserName>
+  <FlaggedForRelease>false</FlaggedForRelease>
+  <CurrentRuleView>Released</CurrentRuleView>
+  <IsRuleInUse>false</IsRuleInUse>
+  <LastModifiedUser>37B30C5D37034F3C92842C76E7BC18D3</LastModifiedUser>
+  <LastModifiedDate>2021-11-05T17:23:11.08</LastModifiedDate>
+  <WIPRuleData>
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables />
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+      <ErrorCodeVariableCollection />
+    </decisiontabledata>
+  </WIPRuleData>
+  <ReleaseRuleData>
+    <inputs>
+      <name>VARINPUT</name>
+      <type>8</type>
+      <description>varInput</description>
+      <errorCodeMappingType>Static</errorCodeMappingType>
+    </inputs>
+    <outputs>
+      <name>VAROUTPUT</name>
+      <type>8</type>
+      <description>varOutput</description>
+      <errorCodeMappingType>Static</errorCodeMappingType>
+    </outputs>
+    <outputs>
+      <name>BOOLVAR</name>
+      <type>11</type>
+      <description>boolVar</description>
+      <errorCodeMappingType>Static</errorCodeMappingType>
+    </outputs>
+    <businessrulecalculations />
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables />
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+      <ErrorCodeVariableCollection />
+    </decisiontabledata>
+  </ReleaseRuleData>
+  <Description />
+  <Rule>
+    <inputs>
+      <name>VARINPUT</name>
+      <type>8</type>
+      <description>varInput</description>
+      <errorCodeMappingType>Static</errorCodeMappingType>
+    </inputs>
+    <outputs>
+      <name>VAROUTPUT</name>
+      <type>8</type>
+      <description>varOutput</description>
+      <errorCodeMappingType>Static</errorCodeMappingType>
+    </outputs>
+    <outputs>
+      <name>BOOLVAR</name>
+      <type>11</type>
+      <description>boolVar</description>
+      <errorCodeMappingType>Static</errorCodeMappingType>
+    </outputs>
+    <businessrulecalculations />
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables />
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+      <ErrorCodeVariableCollection />
+    </decisiontabledata>
+  </Rule>
+  <SourceControlStatus>NotInSourceControl</SourceControlStatus>
+</BusinessRule>
