@@ -97,7 +97,7 @@
       <DocumentGroupIdentity>
         <Id>FF5E510F58144852B1710175FC4654C5</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>-1</Version>
+        <Version>10</Version>
         <Name>Leifbillionproject</Name>
       </DocumentGroupIdentity>
     </ExtractionGroups>
@@ -105,7 +105,7 @@
       <ClassificationGroupIdentity>
         <Id>FF5E510F58144852B1710175FC4654C5</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>8</Version>
+        <Version>10</Version>
         <Name>Leifbillionproject</Name>
       </ClassificationGroupIdentity>
     </ClassificationGroups>
