@@ -32,7 +32,7 @@
       <GeneralizedExport>false</GeneralizedExport>
       <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
       <ExportCaseFragments>false</ExportCaseFragments>
-      <ExportTemplateSkins>true</ExportTemplateSkins>
+      <ExportTemplateSkins>false</ExportTemplateSkins>
       <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
       <ExportGlobalDataModels>false</ExportGlobalDataModels>
       <ExportProcessDataModels>false</ExportProcessDataModels>
@@ -62,7 +62,7 @@
       <ExportReportingTags>false</ExportReportingTags>
       <ExportTestPlans>false</ExportTestPlans>
       <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
-      <IsGitExport>true</IsGitExport>
+      <IsGitExport>false</IsGitExport>
     </ProcessExportOption>
     <WorkAllocationRules />
     <Skins />
@@ -138,7 +138,7 @@
       <DocumentGroupIdentity>
         <Id>8F1A9C50EC09F27476AFA4FBA699DE5E</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>2</Version>
+        <Version>3</Version>
         <Name>testSize</Name>
       </DocumentGroupIdentity>
     </ExtractionGroups>
@@ -146,7 +146,7 @@
       <ClassificationGroupIdentity>
         <Id>E8FB76BC8E6761DA96C899D1FC5B7DC1</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>2</Version>
+        <Version>3</Version>
         <Name>testSize123</Name>
       </ClassificationGroupIdentity>
     </ClassificationGroups>
@@ -214,6 +214,7 @@
       <Name />
       <Version>0</Version>
     </QuickApp>
+    <GitFolderName>testEGSize</GitFolderName>
     <PackageItemAssociations>
       <PackageItemAssociation>
         <Id>8F1A9C50EC09F27476AFA4FBA699DE5E</Id>
