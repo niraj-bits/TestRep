@@ -2,7 +2,7 @@
 <ProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Identity>
     <Id>E8FB76BC8E6761DA96C899D1FC5B7DC1</Id>
-    <Version>2</Version>
+    <Version>3</Version>
     <Name>testSize123</Name>
   </Identity>
   <Category>
@@ -13,7 +13,7 @@
   <Name>testSize123</Name>
   <Description />
   <Status>Released</Status>
-  <LastModifiedProjectFile>2021-11-15T11:52:29.01</LastModifiedProjectFile>
+  <LastModifiedProjectFile>2021-11-15T13:15:19.273</LastModifiedProjectFile>
   <LastModifiedProjectFolderZip>0001-01-01T00:00:00</LastModifiedProjectFolderZip>
   <LastModifiedUser>
     <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
