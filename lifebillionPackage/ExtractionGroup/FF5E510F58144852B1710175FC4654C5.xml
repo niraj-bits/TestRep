@@ -3,11 +3,11 @@
   <Identity>
     <Id>FF5E510F58144852B1710175FC4654C5</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
-    <Version>7</Version>
+    <Version>8</Version>
     <Name>Leifbillionproject</Name>
   </Identity>
   <Name>Leifbillionproject</Name>
-  <Description />
+  <Description>dfsdfsdfsfsdf</Description>
   <Status>Released</Status>
   <IsShared>true</IsShared>
   <Category>
@@ -19,7 +19,7 @@
     <DocumentType>
       <Identity>
         <Id>BE54C6BB2B6511EC80F2000C29C871A1</Id>
-        <Version>7</Version>
+        <Version>8</Version>
         <Name>InvoiceClass</Name>
       </Identity>
       <Name>InvoiceClass</Name>
@@ -42,6 +42,10 @@
               <Description />
               <FieldType>Text</FieldType>
               <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
               <Verification>
                 <IsVerificationDisplayField>false</IsVerificationDisplayField>
                 <VerificationMode>Confirm</VerificationMode>
@@ -73,7 +77,7 @@
             <ResourceIdentity>
               <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
               <AutomaticallyPopulate>true</AutomaticallyPopulate>
-              <Name />
+              <Name>Everyone</Name>
               <ResourceType>Worker</ResourceType>
               <EmailAddress />
               <UserId />
@@ -103,7 +107,7 @@
       </DocumentTypeValidator>
       <ParentDocumentType>
         <Id>C6D296FE19E6431A898D7CFCFB85CBEC</Id>
-        <Version>7</Version>
+        <Version>8</Version>
         <Name />
       </ParentDocumentType>
       <HasStandardValidator>false</HasStandardValidator>
@@ -117,19 +121,47 @@
         <Producer />
       </PdfSettings>
       <AutomaticOnlineLearningEnabled>false</AutomaticOnlineLearningEnabled>
+      <Forms>
+        <ScanForm>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+        </ScanForm>
+        <ValidationForm>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+        </ValidationForm>
+        <VerificationForm>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+        </VerificationForm>
+        <DocumentReviewForm>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+        </DocumentReviewForm>
+      </Forms>
       <AvailableForManualClassification>true</AvailableForManualClassification>
       <TableFieldExportDelimiter>;</TableFieldExportDelimiter>
       <IsTemplateImageOverriden>false</IsTemplateImageOverriden>
       <MonitorForClassificationOnlineLearning>false</MonitorForClassificationOnlineLearning>
       <PostValidationHandler>
         <IsPostValidationHandlingEnabled>false</IsPostValidationHandlingEnabled>
+        <ProcessIdentity>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+          <Name />
+        </ProcessIdentity>
       </PostValidationHandler>
       <IsPartial>false</IsPartial>
     </DocumentType>
     <DocumentType>
       <Identity>
         <Id>C6D296FE19E6431A898D7CFCFB85CBEC</Id>
-        <Version>7</Version>
+        <Version>8</Version>
         <Name />
       </Identity>
       <Name />
@@ -163,32 +195,75 @@
         <Producer />
       </PdfSettings>
       <AutomaticOnlineLearningEnabled>false</AutomaticOnlineLearningEnabled>
+      <Forms>
+        <ScanForm>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+        </ScanForm>
+        <ValidationForm>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+        </ValidationForm>
+        <VerificationForm>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+        </VerificationForm>
+        <DocumentReviewForm>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+        </DocumentReviewForm>
+      </Forms>
       <AvailableForManualClassification>true</AvailableForManualClassification>
       <TableFieldExportDelimiter>;</TableFieldExportDelimiter>
       <IsTemplateImageOverriden>false</IsTemplateImageOverriden>
       <MonitorForClassificationOnlineLearning>false</MonitorForClassificationOnlineLearning>
       <PostValidationHandler>
         <IsPostValidationHandlingEnabled>false</IsPostValidationHandlingEnabled>
+        <ProcessIdentity>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+          <Name />
+        </ProcessIdentity>
       </PostValidationHandler>
       <IsPartial>false</IsPartial>
     </DocumentType>
   </DocumentTypes>
-  <LastModifiedDate>2021-11-03T13:28:25.893</LastModifiedDate>
+  <LastModifiedDate>2021-11-15T13:32:19.89</LastModifiedDate>
   <LastModifiedUser>
-    <Id>ECC398BCAD4F4D9388E9B33B5A6C0EF7</Id>
+    <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Sunanda.Varma</Name>
     <ResourceType>Worker</ResourceType>
     <EmailAddress />
     <UserId />
     <ManagerialLevel>0</ManagerialLevel>
   </LastModifiedUser>
-  <LockedByModule>None</LockedByModule>
+  <LockedBy>
+    <Id>37B30C5D37034F3C92842C76E7BC18D3</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Sunanda.Varma</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
   <RootDocumentType>
     <Id>C6D296FE19E6431A898D7CFCFB85CBEC</Id>
-    <Version>7</Version>
+    <Version>8</Version>
     <Name />
   </RootDocumentType>
   <IsOnlineLearningEnabled>false</IsOnlineLearningEnabled>
+  <OnlineLearningSettings>
+    <OnlineLearningMaxNewSamples>2000</OnlineLearningMaxNewSamples>
+    <IsAutomaticOnlineLearningEnabled>false</IsAutomaticOnlineLearningEnabled>
+    <OnlineLearningFolderId />
+  </OnlineLearningSettings>
   <FuzzyDatabases />
   <ResourceAccessTokens>
     <ResourceAccess>
